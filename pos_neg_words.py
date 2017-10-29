@@ -14,7 +14,7 @@ TEXTS = [
     "william_cowper"
 ]
 '''
-TEXTS = ["alexander_pope_b1"]
+TEXTS = ["alexander_pope_b1", "samuel_butler_b1", "george_chapman_b1"]
 
 
 def loadWords():
@@ -95,11 +95,17 @@ def main():
     print("Evaluating texts: ", end='')
     # Process each text
     for text in texts:
-        results[text] = determineFrequency(texts[text], positive)
-    print("[OK]")
-    
-    print("Results:")
+        results[text] = (determineFrequency(texts[text], positive),
+                         determineFrequency(texts[text], negative))
+    print(" [OK]")
+
+    print("Results:\n")
+    print("Word count:")
+    for text in texts:
+        print(text + ": Word Count: " + (str)(len(texts[text])))
+    print("\nSubjectivity:")
     for result in results:
-        print(result + ": " + (str)(results[result]))
+        print(result + ": Pos: " + "%.4f" % (results[result][0] * 100) +
+              " Neg: " + "%.4f" % (results[result][1] * 100))
 
 main()
