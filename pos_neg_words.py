@@ -3,7 +3,6 @@ import bisect
 # This program is to analyze the frequency of positive and negative words in
 # different translations of the Iliad
 
-'''
 TEXTS = [
     "alexander_pope",
     "edward_earl_of_derby",
@@ -13,8 +12,6 @@ TEXTS = [
     "theodore_buckley",
     "william_cowper"
 ]
-'''
-TEXTS = ["alexander_pope_b1", "samuel_butler_b1", "george_chapman_b1"]
 
 
 def loadWords():
@@ -89,7 +86,7 @@ def main():
     # Read files for all texts
     texts = {}
     for text in TEXTS:
-        texts[text] = readFile("translations/books/1/" + text + ".txt")
+        texts[text] = readFile("translations/cleaned/" + text + ".txt")
     print("[OK]")
 
     print("Evaluating texts: ", end='')
@@ -97,15 +94,15 @@ def main():
     for text in texts:
         results[text] = (determineFrequency(texts[text], positive),
                          determineFrequency(texts[text], negative))
-    print(" [OK]")
+    print("  [OK]")
 
     print("Results:\n")
     print("Word count:")
     for text in texts:
-        print(text + ": Word Count: " + (str)(len(texts[text])))
+        print("{0:22}".format(text) + "Word Count: " + (str)(len(texts[text])))
     print("\nSubjectivity:")
     for result in results:
-        print(result + ": Pos: " + "%.4f" % (results[result][0] * 100) +
-              " Neg: " + "%.4f" % (results[result][1] * 100))
+        print("{0:22}".format(result) + "Pos: " + "%.4f" % (results[result][0] * 100) +
+              "\tNeg: " + "%.4f" % (results[result][1] * 100))
 
 main()
