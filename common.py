@@ -8,6 +8,7 @@ TEXTS = [
     "lang_leaf_myers",
     "samuel_butler",
     "alexander_pope",
+    "robert_fagels"
 ]
 
 PUB_DATES = {
@@ -18,6 +19,7 @@ PUB_DATES = {
     "lang_leaf_myers": 1891,
     "samuel_butler": 1898,
     "alexander_pope": 1899,
+    "robert_fagels": 1998,
 }
 
 
@@ -32,7 +34,7 @@ def readFile(filename):
 
     # Make all words lowecase and remove punctuation
     for i in range(len(words)):
-        words[i] = words[i].lower().strip("\",.")
+        words[i] = words[i].translate({ord(c): None for c in "\",.!'()[]0123456789?;-"}).lower()
 
     # Remove empty lines
     words = list(filter(("").__ne__, words))

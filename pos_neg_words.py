@@ -1,5 +1,6 @@
 import bisect
 import common
+import sys
 
 # This program is to analyze the frequency of positive and negative words in
 # different translations of the Iliad
@@ -50,24 +51,27 @@ def main():
 
     results = {}
 
-    print("Parsing dictionary: ", end='')
+    print("Parsing dictionary: ", end="")
+    sys.stdout.flush()
     # Populate list of pos/neg words
     (positive, negative) = loadWords()
     print("[OK]")
 
-    print("Parsing plaintexts: ", end='')
+    print("Parsing plaintexts: ", end="")
+    sys.stdout.flush()
     # Read files for all texts
     texts = {}
     for text in common.TEXTS:
         texts[text] = common.readFile("translations/cleaned/" + text + ".txt")
     print("[OK]")
 
-    print("Evaluating texts: ", end='')
+    print("Evaluating texts:   ", end="")
+    sys.stdout.flush()
     # Process each text
     for text in texts:
         results[text] = (determineFrequency(texts[text], positive),
                          determineFrequency(texts[text], negative))
-    print("  [OK]")
+    print("[OK]")
 
     print("Results:\n")
     print("Word count:")

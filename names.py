@@ -2,22 +2,39 @@
 # names in translations of the Iliad
 
 import common
+import sys
 
-'''
+
+# keywords = [
+#     "achilles",
+#     "helen",
+#     "priam",
+#     "paris",
+#     "agamemnon",
+#     "hector",
+#     "atrides",
+#     "patroclus",
+#     "odysseus",
+#     "diomedes",
+#     "tydides",
+#     "ajax",
+# ]
+
+
+# keywords = [
+#     "agamemnon",
+#     "atrides"
+# ]
+
+# keywords = [
+#     "diomedes",
+#     "tydides",
+#     "diomede"
+# ]
+
 keywords = [
-    "achilles",
-    "helen",
-    "priam",
     "paris",
-    "agamemnon",
-    "hector",
-    "atrides"
-]
-'''
-
-keywords = [
-    "agamemnon",
-    "atrides"
+    "alexander"
 ]
 
 
@@ -29,15 +46,13 @@ def getOccurences(text, keywords):
     for word in text:
         if(word in keywords):
             occurences[word] += 1
-    results = []
-    for keyword in occurences:
-        results.append([keyword, occurences[keyword]])
-    return sorted(results, key=lambda x: x[1], reverse=True)
+    return occurences
 
 
 def main():
 
     print("Parsing plaintexts: ", end='')
+    sys.stdout.flush()
     # Read files for all texts
     texts = {}
     for text in common.TEXTS:
@@ -46,12 +61,25 @@ def main():
 
     results = {}
 
+    print("Evaluating texts:   ", end="")
+    sys.stdout.flush()
     for text in texts:
         results[text] = getOccurences(texts[text], keywords)
+    print("[OK]")
 
+    table_data = []
     for text in results:
-        print("{0:18}".format(text))
-        for result in results[text]:
-            print("\t{0:12}".format(result[0]) + str(result[1]))
+        line = "{0:30}".format(text)
+        for keyword in keywords:
+            line += "{0:15}".format("%3d" % results[text][keyword])
+        table_data.append((line, common.PUB_DATES[text]))
+    table_data = sorted(table_data, key=lambda x: x[1])
+
+    header = ("{0:30}".format("Translator"))
+    for keyword in keywords:
+        header += ("{0:15}".format(keyword))
+    print(header)
+    for item in table_data:
+        print(item[0])
 
 main()
