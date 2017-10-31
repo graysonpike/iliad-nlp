@@ -1,17 +1,8 @@
 import bisect
+import common
 
 # This program is to analyze the frequency of positive and negative words in
 # different translations of the Iliad
-
-TEXTS = [
-    "alexander_pope",
-    "edward_earl_of_derby",
-    "george_chapman",
-    "lang_leaf_myers",
-    "samuel_butler",
-    "theodore_buckley",
-    "william_cowper"
-]
 
 
 def loadWords():
@@ -42,24 +33,6 @@ def loadWords():
     return (positive, negative)
 
 
-def readFile(filename):
-    # Parsing function for plaintext texts.
-    # Return a list of strings, each word in the dictionary
-    file = open(filename)
-    words = []
-    for line in file:
-        line = line.rstrip()
-        words += line.split(' ')
-
-    # Make all words lowecase and remove punctuation
-    for word in words:
-        word = word.lower().strip(" ,.")
-
-    # Remove empty lines
-    words = list(filter(("").__ne__, words))
-    return words
-
-
 def determineFrequency(text, dictionary):
     # Return the frequency of words defined by the dictionary in the given text
     occurences = 0
@@ -85,8 +58,8 @@ def main():
     print("Parsing plaintexts: ", end='')
     # Read files for all texts
     texts = {}
-    for text in TEXTS:
-        texts[text] = readFile("translations/cleaned/" + text + ".txt")
+    for text in common.TEXTS:
+        texts[text] = common.readFile("translations/cleaned/" + text + ".txt")
     print("[OK]")
 
     print("Evaluating texts: ", end='')
@@ -101,8 +74,12 @@ def main():
     for text in texts:
         print("{0:22}".format(text) + "Word Count: " + (str)(len(texts[text])))
     print("\nSubjectivity:")
-    for result in results:
-        print("{0:22}".format(result) + "Pos: " + "%.4f" % (results[result][0] * 100) +
-              "\tNeg: " + "%.4f" % (results[result][1] * 100))
+    table_data = []
+    for text in texts:
+        table_data.append((text, results[text][0] * 100, results[text][1] * 100, common.PUB_DATES[text]))
+    table_data = sorted(table_data, key=lambda x: x[3])
+    for item in table_data:
+        print("{0:22}".format(item[0]) + "Pos: " + "%.4f" % (item[1]) +
+              "\tNeg: " + "%.4f" % (item[2]))
 
 main()
