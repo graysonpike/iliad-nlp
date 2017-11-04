@@ -16,25 +16,35 @@ import sys
 #     "patroclus",
 #     "odysseus",
 #     "diomedes",
-#     "tydides",
+#     "tydides",a
 #     "ajax",
 # ]
 
 
-# keywords = [
-#     "agamemnon",
-#     "atrides"
-# ]
-
-# keywords = [
-#     "diomedes",
-#     "tydides",
-#     "diomede"
-# ]
+keywords = [
+    "zeus",
+    "juno",
+    "jupiter",
+    "jove",
+]
 
 keywords = [
     "paris",
-    "alexander"
+    "alexander",
+    "alexandrus",
+    "alexandros",
+]
+
+keywords = [
+    "diomedes",
+    "tydides",
+    "diomede",
+    "diomed",
+]
+
+keywords = [
+    "agamemnon",
+    "atrides"
 ]
 
 
