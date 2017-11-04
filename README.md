@@ -22,8 +22,8 @@ The number of occurrences of given keywords is determined for each text. This is
 
 ### Results and Data
 
-![Graph 1](graph_images/graph_1 "Graph 1")
-![Graph 2](graph_images/graph_2 "Graph 2")
-![Graph 3](graph_images/graph_3 "Graph 3")
-![Graph 4](graph_images/graph_4 "Graph 4")
-![Graph 5](graph_images/graph_5 "Graph 5")
+![Graph 1](graph_images/graph_1.png "Graph 1")
+![Graph 2](graph_images/graph_2.png "Graph 2")
+![Graph 3](graph_images/graph_3.png "Graph 3")
+![Graph 4](graph_images/graph_4.png "Graph 4")
+![Graph 5](graph_images/graph_5.png "Graph 5")
