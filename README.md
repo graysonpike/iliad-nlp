@@ -1,5 +1,5 @@
 # iliad-nlp
-Comparing different translations of the Iliad with NLP
+Comparing different translations of the Iliad with statistical analysis.
 
 
 ### Project Information
