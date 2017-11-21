@@ -2,23 +2,23 @@
 
 TEXTS = [
     "george_chapman",
+    "alexander_pope",
     "william_cowper",
     "edward_earl_of_derby",
     "theodore_buckley",
     "lang_leaf_myers",
     "samuel_butler",
-    "alexander_pope",
-    "robert_fagels"
+    "robert_fagels",
 ]
 
 PUB_DATES = {
     "george_chapman": 1598,
+    "alexander_pope": 1715,
     "william_cowper": 1849,
     "edward_earl_of_derby": 1867,
     "theodore_buckley": 1873,
     "lang_leaf_myers": 1891,
     "samuel_butler": 1898,
-    "alexander_pope": 1899,
     "robert_fagels": 1998,
 }
 
