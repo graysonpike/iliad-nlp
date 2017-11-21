@@ -51,37 +51,41 @@ def main():
 
     results = {}
 
+    # Populate list of pos/neg words
     print("Parsing dictionary: ", end="")
     sys.stdout.flush()
-    # Populate list of pos/neg words
     (positive, negative) = loadWords()
     print("[OK]")
 
+    # Read files for all texts
     print("Parsing plaintexts: ", end="")
     sys.stdout.flush()
-    # Read files for all texts
     texts = {}
     for text in common.TEXTS:
         texts[text] = common.readFile("translations/cleaned/" + text + ".txt")
     print("[OK]")
 
+    # Process each text
     print("Evaluating texts:   ", end="")
     sys.stdout.flush()
-    # Process each text
     for text in texts:
         results[text] = (determineFrequency(texts[text], positive),
                          determineFrequency(texts[text], negative))
     print("[OK]")
 
+    # Add results to a 2d array so that it can be sorted
+    # by publication date
+    table_data = []
+    for text in texts:
+        table_data.append((text, results[text][0] * 100, results[text][1] * 100, common.PUB_DATES[text]))
+    table_data = sorted(table_data, key=lambda x: x[3])
+
+    # Print formatted table of data
     print("Results:\n")
     print("Word count:")
     for text in texts:
         print("{0:22}".format(text) + "Word Count: " + (str)(len(texts[text])))
     print("\nSubjectivity:")
-    table_data = []
-    for text in texts:
-        table_data.append((text, results[text][0] * 100, results[text][1] * 100, common.PUB_DATES[text]))
-    table_data = sorted(table_data, key=lambda x: x[3])
     for item in table_data:
         print("{0:22}".format(item[0]) + "Pos: " + "%.4f" % (item[1]) +
               "\tNeg: " + "%.4f" % (item[2]))
