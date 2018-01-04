@@ -1,6 +1,6 @@
 # iliad-nlp
 Comparing different translations of the Iliad with statistical analysis.
-For a small demo of this project, visit [my website](www.graysonpike.com/iliad/).
+For a small demo of this project, visit [my website](http://www.graysonpike.com/iliad/).
 
 ### Project Information
 
