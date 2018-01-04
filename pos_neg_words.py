@@ -62,7 +62,10 @@ def main():
     sys.stdout.flush()
     texts = {}
     for text in common.TEXTS:
-        texts[text] = common.readFile("translations/cleaned/" + text + ".txt")
+        # For translations
+        # texts[text] = common.readFile("translations/cleaned/" + text + ".txt")
+        # For novels
+        texts[text] = common.readFile("novels/" + text + ".txt")
     print("[OK]")
 
     # Process each text
@@ -73,17 +76,24 @@ def main():
                          determineFrequency(texts[text], negative))
     print("[OK]")
 
+    '''
     # Add results to a 2d array so that it can be sorted
     # by publication date
     table_data = []
     for text in texts:
         table_data.append((text, results[text][0] * 100, results[text][1] * 100, common.PUB_DATES[text]))
     table_data = sorted(table_data, key=lambda x: x[3])
+    '''
+
+    # Add results to 2d array for table formatting (unsorted by PUB_DATES)
+    table_data = []
+    for text in texts:
+        table_data.append((text, results[text][0] * 100, results[text][1] * 100, 1))
 
     # Print formatted table of data
     print("Results:\n")
     print("Word count:")
-    for text in texts:
+    for text in common.TEXTS:
         print("{0:22}".format(text) + "Word Count: " + (str)(len(texts[text])))
     print("\nSubjectivity:")
     for item in table_data:

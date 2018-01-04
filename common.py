@@ -1,5 +1,5 @@
 # Variables and functions used by multiple scripts
-
+'''
 TEXTS = [
     "george_chapman",
     "alexander_pope",
@@ -10,6 +10,16 @@ TEXTS = [
     "samuel_butler",
     "robert_fagels",
 ]
+'''
+
+TEXTS = [
+    "alice_in_wonderland",
+    "frankenstien",
+    "moby_dick",
+    "pride_and_prejudice",
+    "sherlock_holmes",
+]
+
 
 PUB_DATES = {
     "george_chapman": 1598,

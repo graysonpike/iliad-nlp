@@ -1,6 +1,6 @@
 # Program to determine frequencies of parts of speech in different translations of the Iliad
 
-from nltk import word_tokenize, pos_tag
+from nltk import word_tokenize, pos_tag, Text
 import common
 import sys
 
@@ -18,6 +18,7 @@ def main():
     tokens = {}
     for text in common.TEXTS:
         tokens[text] = get_tokens("translations/cleaned/" + text + ".txt")
+        # tokens[text] = get_tokens("novels/" + text + ".txt")
     print("[OK]")
 
     print("Tagging tokens for POS... ", end="")
@@ -55,7 +56,8 @@ def main():
         results[text] = [nouns / total_words[text], adjectives / total_words[text], verbs / total_words[text]]
     print("[OK]")
 
-    print(tags["william_cowper"][0:200])
+    for text in common.TEXTS:
+        print(Text(tokens[text]).similar("achilles", 10))
 
     print("\nResults:")
     print("{0:25}".format("Translation") + "{:>15}".format("Nouns") + "{:>15}".format("Adjectives") + "{:>15}".format("Verbs"))
