@@ -141,7 +141,7 @@
   With whom, in disposition, feature, form,
   Accomplishments, she may be well compared.                     140
   Yet, being such, I will return her hence
-  If that she go be best. Perish myself--
+  If that she go be best. Perish myself 
   But let the people of my charge be saved
   Prepare ye, therefore, a reward for me,
   And seek it instant. It were much unmeet                       145
@@ -173,7 +173,7 @@
   It may be of Ulysses to my tent,
   And let the loser chafe. But this concern
   Shall be adjusted at convenient time.
-  Come--launch we now into the sacred deep
+  Come launch we now into the sacred deep
   A bark with lusty rowers well supplied;                        175
   Then put on board Chrysëis, and with her
   The sacrifice required. Go also one
@@ -184,7 +184,7 @@
   To appease Apollo on our host's behalf.
     Achilles eyed him with a frown, and spake.
   Ah! clothed with impudence as with a cloak,
-  And full of subtlety, who, thinkest thou--                     185
+  And full of subtlety, who, thinkest thou                      185
   What Grecian here will serve thee, or for thee
   Wage covert war, or open? Me thou know'st,
   Troy never wronged; I came not to avenge
@@ -197,14 +197,14 @@
   No, [14]Shameless Wolf! For thy good pleasure's sake           195
   We came, and, [15]Face of flint! to avenge the wrongs
   By Menelaus and thyself sustain'd,
-  On the offending Trojan--service kind,
+  On the offending Trojan service kind,
   But lost on thee, regardless of it all.
-  And now--What now? Thy threatening is to seize                 200
+  And now What now? Thy threatening is to seize                 200
   Thyself, the just requital of my toils,
   My prize hard-earn'd, by common suffrage mine.
   I never gain, what Trojan town soe'er
   We ransack, half thy booty. The swift march
-  And furious onset--these I largely reap,                       205
+  And furious onset these I largely reap,                       205
   But, distribution made, thy lot exceeds
   Mine far; while I, with any pittance pleased,
   Bear to my ships the little that I win
@@ -215,7 +215,7 @@
   Without me, more than thou shalt soon consume.[16]
     He ceased, and Agamemnon thus replied
   Fly, and fly now; if in thy soul thou feel                     215
-  Such ardor of desire to go--begone!
+  Such ardor of desire to go begone!
   I woo thee not to stay; stay not an hour
   On my behalf, for I have others here
   Who will respect me more, and above all
@@ -287,7 +287,7 @@
   Doubtless the course is safer far, to range                    285
   Our numerous host, and if a man have dared
   Dispute thy will, to rob him of his prize.
-  King! over whom? Women and spiritless--
+  King! over whom? Women and spiritless 
   Whom therefore thou devourest; else themselves
   Would stop that mouth that it should scoff no more.            290
   But hearken. I shall swear a solemn oath.
@@ -312,10 +312,10 @@
   The son of Atreus all impassion'd stood,                       310
   When the harmonious orator arose
   Nestor, the Pylian oracle, whose lips
-  Dropped eloquence--the honey not so sweet.
+  Dropped eloquence the honey not so sweet.
   Two generations past of mortals born
   In Pylus, coëtaneous with himself,                             315
-  He govern'd now the third--amid them all
+  He govern'd now the third amid them all
   He stood, and thus, benevolent, began.
     Ah! what calamity hath fall'n on Greece!
   Now Priam and his sons may well exult,
@@ -359,7 +359,7 @@
   The chief munition is of all our host.
     To whom the sovereign of the Greeks replied,
   The son of Atreus. Thou hast spoken well,
-  Old Chief, and wisely. But this wrangler here--                360
+  Old Chief, and wisely. But this wrangler here                 360
   Nought will suffice him but the highest place:
   He must control us all, reign over all,
   Dictate to all; but he shall find at least
@@ -405,11 +405,11 @@
   At first against Achilles, but command
   Gave to Talthybius and Eurybates
   His heralds, ever faithful to his will.                        405
-    Haste--Seek ye both the tent of Peleus' son
+    Haste Seek ye both the tent of Peleus' son
   Achilles. Thence lead hither by the hand
   Blooming Brisëis, whom if he withhold,
   Not her alone, but other spoil myself
-  Will take in person--He shall rue the hour.                    410
+  Will take in person He shall rue the hour.                    410
     With such harsh message charged he them dismissed
   They, sad and slow, beside the barren waste
   Of Ocean, to the galleys and the tents
@@ -428,7 +428,7 @@
   But be themselves my witnesses before
   The blessed Gods, before mankind, before
   The ruthless king, should want of me be felt
-  To save the host from havoc[25]--Oh, his thoughts
+  To save the host from havoc[25] Oh, his thoughts
   Are madness all; intelligence or skill,                        430
   Forecast or retrospect, how best the camp
   May be secured from inroad, none hath he.
@@ -694,12 +694,12 @@
   And fathomer of my concealed designs,
   Thy toil is vain, or (which is worse for thee,)
   Shall but estrange thee from mine heart the more.
-  And be it as thou sayest,--I am well pleased                   695
+  And be it as thou sayest, I am well pleased                   695
   That so it should be. Be advised, desist,
   Hold thou thy peace. Else, if my glorious hands
   Once reach thee, the Olympian Powers combined
   To rescue thee, shall interfere in vain.
-    He said,--whom Juno, awful Goddess, heard                    700
+    He said, whom Juno, awful Goddess, heard                    700
   Appall'd, and mute submitted to his will.
   But through the courts of Jove the heavenly Powers
   All felt displeasure; when to them arose
@@ -766,7 +766,7 @@ promise, unwillingly given, to avenge Achilles; and the assembly of
 the gods, in which the promise is angrily alluded to by Juno, and the
 discussion peremptorily checked by Jupiter. The poet, throughout this
 book, maintains a simple, unadorned style, but highly descriptive, and
-happily adapted to the nature of the subject.--FELTON.
+happily adapted to the nature of the subject. FELTON.
 
 
 
@@ -911,7 +911,7 @@ on both sides.
   Impell'd them, and they went. Loud was the din
   Of the assembling thousands; groan'd the earth                 115
   When down they sat, and murmurs ran around.
-  Nine heralds cried aloud--Will ye restrain
+  Nine heralds cried aloud Will ye restrain
   Your clamors, that your heaven-taught Kings may speak?
   Scarce were they settled, and the clang had ceased,
   When Agamemnon, sovereign o'er them all,                       120
@@ -1018,7 +1018,7 @@ on both sides.
   He found, approaching to his side, in terms
   Of gentle sort he stay'd him. Sir, he cried,
   It is unseemly that a man renown'd
-  As thou, should tremble. Go--Resume the seat
+  As thou, should tremble. Go Resume the seat
   Which thou hast left, and bid the people sit.                  225
   Thou know'st not clearly yet the monarch's mind.
   He proves us now, but soon he will chastize.
@@ -1084,7 +1084,7 @@ on both sides.
   If our assistance profit him or not.
   For when he shamed Achilles, he disgraced
   A Chief far worthier than himself, whose prize
-  He now withholds. But tush,--Achilles lacks                    290
+  He now withholds. But tush, Achilles lacks                    290
   Himself the spirit of a man; no gall
   Hath he within him, or his hand long since
   Had stopp'd that mouth,[9] that it should scoff no more.
@@ -1092,7 +1092,7 @@ on both sides.
   Thersites. Instant starting to his side,                       295
   Noble Ulysses with indignant brows
   Survey'd him, and him thus reproved severe.
-    Thersites! Railer!--peace. Think not thyself,
+    Thersites! Railer! peace. Think not thyself,
   Although thus eloquent, alone exempt
   From obligation not to slander Kings.                          300
   I deem thee most contemptible, the worst
@@ -1142,7 +1142,7 @@ on both sides.
   His promise more in steed-famed Argos pledged,                 345
   Here to abide till Ilium wall'd to heaven
   Should vanquish'd sink, and all her wealth be ours.
-  No--now, like widow'd women, or weak boys,
+  No now, like widow'd women, or weak boys,
   They whimper to each other, wishing home.
   And home, I grant, to the afflicted soul                       350
   Seems pleasant.[11] The poor seaman from his wife
@@ -1251,7 +1251,7 @@ on both sides.
   Achilles and myself between, and I
   The fierce aggressor. Be that breach but heal'd!               455
   And Troy's reprieve thenceforth is at an end.
-  Go--take refreshment now that we may march
+  Go take refreshment now that we may march
   Forth to our enemies. Let each whet well
   His spear, brace well his shield, well feed his brisk
   High-mettled horses, well survey and search                    460
@@ -1806,7 +1806,7 @@ on both sides.
   And led by Pandarus, Lycaon's son,
   Whom Phoebus self graced with the bow he bore.                1010
     Apæsus, Adrastea, Terie steep,
-  And Pitueia--them, Amphius clad
+  And Pitueia them, Amphius clad
   In mail thick-woven, and Adrastus, ruled.
   They were the sons of the Percosian seer
   Merops, expert in the soothsayers' art                        1015
@@ -1991,7 +1991,7 @@ Agamemnon demands from the Trojans a performance of the covenant.
   Discharged full volley, showering thick around
   From bow and sling;[7] when with a mighty voice
   Thus Agamemnon, leader of the host.                             95
-    Argives! Be still--shoot not, ye sons of Greece!
+    Argives! Be still shoot not, ye sons of Greece!
   Hector bespeaks attention. Hear the Chief!
     He said, at once the Grecians ceased to shoot,
   And all sat silent. Hector then began.
@@ -2167,9 +2167,9 @@ Agamemnon demands from the Trojans a performance of the covenant.
   None then might match Ulysses; leisure, then,
   Found none to wonder at his noble form.                        270
     The third of whom the venerable king
-  Inquired, was Ajax.--Yon Achaian tall,
+  Inquired, was Ajax. Yon Achaian tall,
   Whose head and shoulders tower above the rest,
-  And of such bulk prodigious--who is he?
+  And of such bulk prodigious who is he?
     Him answer'd Helen, loveliest of her sex.                    275
   A bulwark of the Greeks. In him thou seest
   Gigantic Ajax. Opposite appear
@@ -2327,7 +2327,7 @@ Agamemnon demands from the Trojans a performance of the covenant.
   Smote him; but shiver'd into fragments small
   The falchion at the stroke fell from his hand.                 430
   Vexation fill'd him; to the spacious heavens
-  He look'd, and with a voice of wo exclaim'd--
+  He look'd, and with a voice of wo exclaim'd 
     Jupiter! of all powers by man adored
   To me most adverse! Confident I hoped
   Revenge for Paris' treason, but my sword                       435
@@ -2358,7 +2358,7 @@ Agamemnon demands from the Trojans a performance of the covenant.
   In Lacedæmon, her unsullied wool                               460
   Dress'd for her, faithfullest of all her train.
   Like her disguised the Goddess thus began.
-    Haste--Paris calls thee--on his sculptured couch,
+    Haste Paris calls thee on his sculptured couch,
   (Sparkling alike his looks and his attire)
   He waits thy wish'd return. Thou wouldst not dream             465
   That he had fought; he rather seems prepared
@@ -2375,8 +2375,8 @@ Agamemnon demands from the Trojans a performance of the covenant.
   Is it because Atrides hath prevailed
   To vanquish Paris, and would bear me home
   Unworthy as I am, that thou attempt'st
-  Again to cheat me? Go thyself--sit thou                        480
-  Beside him--for his sake renounce the skies;
+  Again to cheat me? Go thyself sit thou                        480
+  Beside him for his sake renounce the skies;
   Watch him, weep for him; till at length his wife
   He deign to make thee, or perchance his slave.
   I go not (now to go were shame indeed)
@@ -2401,10 +2401,10 @@ Agamemnon demands from the Trojans a performance of the covenant.
   To Paris opposite, the Queen of smiles
   Herself disposed; but with averted eyes
   She sat before him, and him keen reproach'd.                   505
-    Thou hast escaped.--Ah would that thou hadst died
+    Thou hast escaped. Ah would that thou hadst died
   By that heroic arm, mine husband's erst!
   Thou once didst vaunt thee in address and strength
-  Superior. Go then--challenge yet again
+  Superior. Go then challenge yet again
   The warlike Menelaüs forth in fight.                           510
   But hold. The hero of the amber locks
   Provoke no more so rashly, lest the point
@@ -2541,7 +2541,7 @@ encouragement of his host to battle. The battle begins.
   Concession mutual therefore both thyself
   Befits and me, whom when the Gods perceive                      75
   Disposed to peace, they also shall accord.
-  Come then.--To yon dread field dispatch in haste
+  Come then. To yon dread field dispatch in haste
   Minerva, with command that she incite
   The Trojans first to violate their oath
   By some fresh insult on the exulting Greeks.                    80
@@ -2771,7 +2771,7 @@ encouragement of his host to battle. The battle begins.
   Of Argos, banqueting, their beakers charge
   With rosy wine the honorable meed                              305
   Of valor, thou alone of all the Greeks
-  Drink'st not by measure.[12] No--thy goblet stands
+  Drink'st not by measure.[12] No thy goblet stands
   Replenish'd still, and like myself thou know'st
   No rule or bound, save what thy choice prescribes.
   March. Seek the foe. Fight now as heretofore,                  310
@@ -3218,7 +3218,7 @@ violated the truce, and wounds first Venus and then Mars.
   Phereclus sank, and with a shriek expired.
   Pedæus, whom, although his spurious son,                        85
   Antenor's wife, to gratify her lord,
-  Had cherish'd as her own--him Meges slew.
+  Had cherish'd as her own him Meges slew.
   Warlike Phylides[5] following close his flight,
   His keen lance drove into his poll, cut sheer
   His tongue within, and through his mouth enforced               90
@@ -3421,7 +3421,7 @@ violated the truce, and wounds first Venus and then Mars.
   Bow-practised Pandarus; with whom appears
   Æneas; he who calls the mighty Chief
   Anchises father, and whom Venus bore.
-  Mount--drive we swift away--lest borne so far                  290
+  Mount drive we swift away lest borne so far                  290
   Beyond the foremost battle, thou be slain.
     To whom, dark-frowning, Diomede replied
   Speak not of flight to me, who am disposed
@@ -3458,7 +3458,7 @@ violated the truce, and wounds first Venus and then Mars.
   Dismiss'd it. Forceful on the shield it struck
   Of Diomede, transpierced it, and approach'd                    325
   With threatening point the hauberk on his breast.
-  Loud shouted Pandarus--Ah nobly thrown!
+  Loud shouted Pandarus Ah nobly thrown!
   Home to thy bowels. Die, for die thou must,
   And all the glory of thy death is mine.
     Then answer thus brave Diomede return'd                      330
@@ -3531,7 +3531,7 @@ violated the truce, and wounds first Venus and then Mars.
   And Phoebus, in impenetrable clouds
   Him hiding, lest the spear of some brave Greek
   Should pierce his bosom, caught him swift away.
-  Then shouted brave Tydides after her--                         400
+  Then shouted brave Tydides after her                          400
     Depart, Jove's daughter! fly the bloody field.
   Is't not enough that thou beguilest the hearts
   Of feeble women? If thou dare intrude
@@ -3678,9 +3678,9 @@ violated the truce, and wounds first Venus and then Mars.
   The godlike sons of Priam thus harangued.
     Ye sons of Priam, monarch Jove-beloved!                      545
   How long permit ye your Achaian foes
-  To slay the people?--till the battle rage
+  To slay the people? till the battle rage
   (Push'd home to Ilium) at her solid gates?
-  Behold--a Chief disabled lies, than whom
+  Behold a Chief disabled lies, than whom
   We reverence not even Hector more,                             550
   Æneas; fly, save from the roaring storm
   The noble Anchisiades your friend.
@@ -3749,7 +3749,7 @@ violated the truce, and wounds first Venus and then Mars.
   Such toils the archer of the silver bow,                       615
   Wide-slaughtering Mars, and Discord as at first
   Raging implacable, for them prepared.
-    Ulysses, either Ajax, Diomede--
+    Ulysses, either Ajax, Diomede 
   These roused the Greeks to battle, who themselves
   The force fear'd nothing, or the shouts of Troy,               620
   But steadfast stood, like clouds by Jove amass'd
@@ -4576,7 +4576,7 @@ from the gate together.
   Bearing sweet incense; but from the attire                     330
   Treasured within thy chamber, first select
   The amplest robe, most exquisitely wrought,
-  And which thou prizest most--then spread the gift
+  And which thou prizest most then spread the gift
   On Athenæan Pallas' lap divine.
   Twelve heifers also of the year, untouch'd                     335
   With puncture of the goad, promise to slay
@@ -4730,7 +4730,7 @@ from the gate together.
   Met him, Andromache the rich-endow'd
   Fair daughter of Eëtion famed in arms.                         485
   Eëtion, who in Hypoplacian Thebes
-  Umbrageous dwelt, Cilicia's mighty lord--
+  Umbrageous dwelt, Cilicia's mighty lord 
   His daughter valiant Hector had espoused.
   There she encounter'd him, and with herself
   The nurse came also, bearing in her arms                       490
@@ -4767,7 +4767,7 @@ from the gate together.
   Among his other spoils, he loosed again
   At an inestimable ransom-price,
   But by Diana pierced, she died at home.
-  Yet Hector--oh my husband! I in thee
+  Yet Hector oh my husband! I in thee
   Find parents, brothers, all that I have lost.                  525
   Come! have compassion on us. Go not hence,
   But guard this turret, lest of me thou make
@@ -4802,7 +4802,7 @@ from the gate together.
   For a task-mistress, and constrain'd shalt draw
   From Hypereïa's fount,[31] or from the fount
   Messeïs, water at her proud command.
-  Some Grecian then, seeing thy tears, shall say--
+  Some Grecian then, seeing thy tears, shall say 
   "This was the wife of Hector, who excell'd                     560
   All Troy in fight when Ilium was besieged."
   Such he shall speak thee, and thy heart, the while,
@@ -4901,11 +4901,11 @@ which awaits him.
 The student who has once read this book, will read it again and again.
 It contains much that is addressed to the deepest feelings of our
 common nature, and, despite of the long interval of time which lies
-between our age and the Homeric--despite the manifold changes of
+between our age and the Homeric despite the manifold changes of
 customs, habits, pursuits, and the advances that have been made in
-civilization and art--despite of all these, the universal spirit of
+civilization and art despite of all these, the universal spirit of
 humanity will recognize in these scenes much of that true poetry which
-delights alike all ages, all nations, all men.--FELTON.
+delights alike all ages, all nations, all men. FELTON.
 
 
 
@@ -5027,7 +5027,7 @@ camp.
   May grace with rights funereal. On the banks
   Of wide-spread Hellespont ye shall upraise
   His tomb, and as they cleave with oary barks
-  The sable deep, posterity shall say--
+  The sable deep, posterity shall say 
   "It is a warrior's tomb; in ancient days                       100
   The Hero died; him warlike Hector slew."
   So men shall speak hereafter, and my fame
@@ -5036,10 +5036,10 @@ camp.
   None dared accept, which yet they blush'd to shun,             105
   Till Menelaus, at the last, arose
   Groaning profound, and thus reproach'd the Greeks.
-    Ah boasters! henceforth women--men no more--
+    Ah boasters! henceforth women men no more 
   Eternal shame, shame infinite is ours,
   If none of all the Grecians dares contend                      110
-  With Hector. Dastards--deaf to glory's call--
+  With Hector. Dastards deaf to glory's call 
   Rot where ye sit! I will myself take arms
   Against him, for the gods alone dispose,
   At their own pleasure, the events of war.
@@ -5136,7 +5136,7 @@ camp.
   Into the helmet cast it of the son                             205
   Of Atreus, Agamemnon. Then the host
   Pray'd all, their hands uplifting, and with eyes
-  To the wide heavens directed, many said[6]--
+  To the wide heavens directed, many said[6] 
     Eternal sire! choose Ajax, or the son
   Of Tydeus, or the King himself[7] who sways                    210
   The sceptre in Mycenæ wealth-renown'd!
@@ -5493,7 +5493,7 @@ camp.
   All night the Grecians feasted, and the host
   Of Ilium, and all night deep-planning Jove
   Portended dire calamities to both,
-  Thundering tremendous!--Pale was every cheek;                  565
+  Thundering tremendous! Pale was every cheek;                  565
   Each pour'd his goblet on the ground, nor dared
   The hardiest drink, 'till he had first perform'd
   Libation meet to the Saturnian King
@@ -5582,7 +5582,7 @@ morning.
   Their safety, lest thy wrath consume them all.
     To whom with smiles answer'd cloud-gatherer Jove.
   Fear not, my child! stern as mine accent was,                   45
-  I forced a frown--no more. For in mine heart
+  I forced a frown no more. For in mine heart
   Nought feel I but benevolence to thee.
     He said, and to his chariot join'd his steeds
   Swift, brazen-hoof'd, and mailed with wavy gold;
@@ -5650,7 +5650,7 @@ morning.
   Art thou too fugitive, and turn'st thy back
   Like the base multitude? Ah! fear a lance
   Implanted ignominious in thy spine.
-  Stop--Nestor dies. Fell Hector is at hand.
+  Stop Nestor dies. Fell Hector is at hand.
     So shouted Diomede, whose summons loud,                      115
   Ulysses yet heard not, but, passing, flew
   With headlong haste to the Achaian fleet.
@@ -5706,8 +5706,8 @@ morning.
     To him the valiant Diomede replied.
   Thou hast well said, old warrior! but the pang
   That wrings my soul, is this. The public ear
-  In Ilium shall from Hector's lips be told--                    170
-  I drove Tydides--fearing me he fled.
+  In Ilium shall from Hector's lips be told                     170
+  I drove Tydides fearing me he fled.
   So shall he vaunt, and may the earth her jaws
   That moment opening swallow me alive!
     Him answer'd the Gerenian warrior old.
@@ -5802,8 +5802,8 @@ morning.
   Vain-glorious erst in Lemnos, while ye fed
   Plenteously on the flesh of beeves full-grown,
   And crown'd your beakers high, that ye would face              265
-  Each man a hundred Trojans in the field--
-  Ay, twice a hundred--yet are all too few
+  Each man a hundred Trojans in the field 
+  Ay, twice a hundred yet are all too few
   To face one Hector now; nor doubt I aught
   But he shall soon fire the whole fleet of Greece.
   Jove! Father! what great sovereign ever felt                   270
@@ -5948,7 +5948,7 @@ morning.
   The rage of Priameïan Hector now
   No longer; such dire mischiefs he hath wrought.                410
     Whom answer'd thus Pallas, cærulean-eyed.
-  --And Hector had himself long since his life
+   And Hector had himself long since his life
   Resign'd and rage together, by the Greeks
   Slain under Ilium's walls, but Jove, my sire,
   Mad counsels executing and perverse,                           415
@@ -5966,9 +5966,9 @@ morning.
   And grasp'd his beard, and him in prayer implored
   That he would honor her heroic son
   Achilles, city-waster prince renown'd.
-  'Tis well--the day shall come when Jove again                  430
+  'Tis well the day shall come when Jove again                  430
   Shall call me darling, and his blue-eyed maid
-  As heretofore;--but thou thy steeds prepare,
+  As heretofore; but thou thy steeds prepare,
   While I, my father's mansion entering, arm
   For battle. I would learn by trial sure,
   If Hector, Priam's offspring famed in fight                    435
@@ -6063,7 +6063,7 @@ morning.
   Superior as it is, had fail'd, and all
   My fortitude. But ye, ere ye beheld                            525
   The wonders of the field, trembling retired.
-  And ye did well--Hear what had else befallen.
+  And ye did well Hear what had else befallen.
   My bolts had found you both, and ye had reach'd,
   In your own chariot borne, the Olympian height,
   Seat of the blest Immortals, never more.                       530
@@ -6090,7 +6090,7 @@ morning.
   Till he have roused Achilles, in that day
   When at the ships, in perilous straits, the hosts
   Shall wage fierce battle for Patroclus slain.
-  Such is the voice of fate. But, as for thee--
+  Such is the voice of fate. But, as for thee 
   Withdraw thou to the confines of the abyss                     555
   Where Saturn and Iäpetus retired,
   Exclusion sad endure from balmy airs
@@ -6592,7 +6592,7 @@ and Ajax return.
   Yet oh compassionate the afflicted host
   Prepared to adore thee. Thou shalt win renown
   Among the Grecians that shall never die.                       375
-  Now strike at Hector. He is here;--himself
+  Now strike at Hector. He is here; himself
   Provokes thee forth; madness is in his heart,
   And in his rage he glories that our ships
   Have hither brought no Grecian brave as he.
@@ -6649,7 +6649,7 @@ and Ajax return.
   He hath accomplished without aid of mine;                      430
   So hath he now this rampart and the trench
   Which he hath digg'd around it, and with stakes
-  Planted contiguous--puny barriers all
+  Planted contiguous puny barriers all
   To hero-slaughtering Hector's force opposed.
   While I the battle waged, present myself                       435
   Among the Achaians, Hector never fought
@@ -6955,7 +6955,7 @@ and Ajax return.
   Had fired the spacious city, then with tears
   The beauteous Cleopatra, and with prayers
   Assail'd him; in his view she set the woes
-  Numberless of a city storm'd--the men
+  Numberless of a city storm'd the men
   Slaughter'd, the city burnt to dust, the chaste                740
   Matrons with all their children dragg'd away.
   That dread recital roused him, and at length
@@ -7108,7 +7108,7 @@ There is much in this book which is worthy of close attention. The
 consummate genius, the varied and versatile power, the eloquence,
 truth, and nature displayed in it, will always be admired. Perhaps
 there is no portion of the poem more remarkable for these
-attributes.--FELTON.
+attributes. FELTON.
 
 
 
@@ -7228,7 +7228,7 @@ attributes.--FELTON.
   Roamest, amid the darkness of the night,                        95
   While other mortals sleep? Comest thou abroad
   Seeking some friend or soldier of the guard?
-  Speak--come not nearer mute. What is thy wish?
+  Speak come not nearer mute. What is thy wish?
     To whom the son of Atreus, King of men.
   Oh Nestor, glory of the Grecian name,                          100
   Offspring of Neleus! thou in me shalt know
@@ -7632,8 +7632,8 @@ attributes.--FELTON.
   Who neither wives nor children hazard here,
   Trusting the Trojans for that service, sleep.                  500
     To whom Ulysses, ever wise, replied.
-  How sleep the strangers and allies?--apart?
-  Or with the Trojans mingled?--I would learn.
+  How sleep the strangers and allies? apart?
+  Or with the Trojans mingled? I would learn.
     So spake Ulysses; to whom Dolon thus,
   Son of Eumedes. I will all unfold,                             505
   And all most truly. By the sea are lodged
@@ -7655,7 +7655,7 @@ attributes.--FELTON.
   With gold and silver all his chariot burns,
   And he arrived in golden armor clad
   Stupendous! little suited to the state
-  Of mortal man--fit for a God to wear!                          525
+  Of mortal man fit for a God to wear!                          525
   Now, either lead me to your gallant fleet,
   Or where ye find me leave me straitly bound
   Till ye return, and after trial made,
@@ -7750,9 +7750,9 @@ attributes.--FELTON.
   Gasping around him, sounded loud the name
   Of his loved Rhesus. Instant, at the voice,
   Wild stir arose and clamorous uproar
-  Of fast-assembling Trojans. Deeds they saw--                   620
+  Of fast-assembling Trojans. Deeds they saw                    620
   Terrible deeds, and marvellous perform'd,
-  But not their authors--they had sought the ships.
+  But not their authors they had sought the ships.
     Meantime arrived where they had slain the spy
   Of Hector, there Ulysses, dear to Jove,
   The coursers stay'd, and, leaping to the ground,               625
@@ -7763,7 +7763,7 @@ attributes.--FELTON.
   To the deep-bellied barks, as to their home.                   630
   First Nestor heard the sound, and thus he said.
     Friends! Counsellors! and leaders of the Greeks!
-  False shall I speak, or true?--but speak I must.
+  False shall I speak, or true? but speak I must.
   The echoing sound of hoofs alarms my ear.
   Oh, that Ulysses, and brave Diomede                            635
   This moment might arrive drawn into camp
@@ -7781,7 +7781,7 @@ attributes.--FELTON.
   Some God who gave them to you? for they show
   A lustre dazzling as the beams of day.
   Old as I am, I mingle yet in fight                             650
-  With Ilium's sons--lurk never in the fleet--
+  With Ilium's sons lurk never in the fleet 
   Yet saw I at no time, or have remark'd
   Steeds such as these; which therefore I believe
   Perforce, that ye have gained by gift divine;
@@ -8217,7 +8217,7 @@ armor of Achilles.
   Glory and honor from Saturnian Jove
   On me attend; now full against the Greeks
   Drive all your steeds, and win a deathless name.               355
-    He spake--and all drew courage from his word.
+    He spake and all drew courage from his word.
   As when his hounds bright-tooth'd some hunter cheers
   Against the lion or the forest-boar,
   So Priameïan Hector cheer'd his host
@@ -8333,7 +8333,7 @@ armor of Achilles.
   Archer shrew-tongued! spie-maiden! man of curls![14]
   Shouldst thou in arms attempt me face to face,                 470
   Thy bow and arrows should avail thee nought.
-  Vain boaster! thou hast scratch'd my foot--no more--
+  Vain boaster! thou hast scratch'd my foot no more 
   And I regard it as I might the stroke
   Of a weak woman or a simple child.
   The weapons of a dastard and a slave                           475
@@ -8564,7 +8564,7 @@ armor of Achilles.
   Snapp'd, and the rankling barb stuck fast within.              700
   Terrified at the stroke, the wounded Chief
   To his own band retired, but, as he went,
-  With echoing voice call'd on the Danaï--
+  With echoing voice call'd on the Danaï 
     Friends! Counsellors, and leaders of the Greeks!
   Turn ye and stand, and from his dreadful lot                   705
   Save Ajax whelm'd with weapons; 'scape, I judge,
@@ -9315,7 +9315,7 @@ catastrophe of the poem.
   Distinguished thus in Lycia, we are call'd                     380
   To firmness here, and to encounter bold
   The burning battle, that our fair report
-  Among the Lycians may be blazon'd thus--
+  Among the Lycians may be blazon'd thus 
   No dastards are the potentates who rule
   The bright-arm'd Lycians; on the fatted flock                  385
   They banquet, and they drink the richest wines;
@@ -9328,7 +9328,7 @@ catastrophe of the poem.
   Myself expose, nor would encourage thee
   To tempt the perils of the glorious field.
   But since a thousand messengers of fate                        395
-  Pursue us close, and man is born to die--
+  Pursue us close, and man is born to die 
   E'en let us on; the prize of glory yield,
   If yield we must, or wrest it from the foe.
     He said, nor cold refusal in return
@@ -9435,7 +9435,7 @@ catastrophe of the poem.
   Brave as I boast myself, I feel the task                       500
   Arduous, through the breach made by myself
   To win a passage to the ships, alone.
-  Follow me all--Most laborers, most dispatch.[4]
+  Follow me all Most laborers, most dispatch.[4]
     So he; at whose sharp reprimand abash'd
   The embattled host to closer conflict moved,                   505
   Obedient to their counsellor and King.
@@ -9596,7 +9596,7 @@ ensues for the body of Alcathoüs.
   But earth-encircler Neptune from the gulf                       55
   Emerging, in the form and with the voice
   Loud-toned of Calchas, roused the Argive ranks
-  To battle--and his exhortation first
+  To battle and his exhortation first
   To either Ajax turn'd, themselves prepared.
     Ye heroes Ajax! your accustomed force                         60
   Exert, oh! think not of disastrous flight,
@@ -9894,7 +9894,7 @@ ensues for the body of Alcathoüs.
   Would fall the weapon, or thy back annoy,
   But it would meet thy bowels or thy chest
   While thou didst rush into the clamorous van.                  355
-  But haste--we may not longer loiter here
+  But haste we may not longer loiter here
   As children prating, lest some sharp rebuke
   Reward us. Enter quick, and from within
   My tent provide thee with a noble spear.
@@ -10008,7 +10008,7 @@ ensues for the body of Alcathoüs.
   Of Agamemnon's daughters, whom ourselves
   Will hither bring from Argos, if thy force
   With ours uniting, thou wilt rase the walls
-  Of populous Troy. Come--follow me; that here                   470
+  Of populous Troy. Come follow me; that here                   470
   Among the ships we may adjust the terms
   Of marriage, for we take not scanty dower.
     So saying, the Hero dragg'd him by his heel
@@ -10108,7 +10108,7 @@ ensues for the body of Alcathoüs.
   Approaching him, in accents wing'd he said.
     Æneas! Trojan Chief! If e'er thou lov'dst
   Thy sister's husband, duty calls thee now
-  To prove it. Haste--defend with me the dead                    570
+  To prove it. Haste defend with me the dead                    570
   Alcathoüs, guardian of thy tender years,
   Slain by Idomeneus the spear-renown'd.
     So saying, he roused his spirit, and on fire
@@ -10487,7 +10487,7 @@ ensues for the body of Alcathoüs.
   And royal Helenus, who in the hand
   Bear each a wound inflicted by the spear,
   And have retired; but Jove their life preserved.
-  Come now--conduct us whither most thine heart
+  Come now conduct us whither most thine heart
   Prompts thee, and thou shalt find us ardent all                950
   To face like danger; what we can, we will,
   The best and most determined can no more.
@@ -10651,7 +10651,7 @@ the Grecians.
   Inform thee where in the Achaian camp
   Confusion most prevails, such deaths are dealt
   Promiscuous, and the cry ascends to heaven.
-  But come--consult we on the sum of all,                         70
+  But come consult we on the sum of all,                         70
   If counsel yet may profit. As for you,
   Ye shall have exhortation none from me
   To seek the fight; the wounded have excuse.
@@ -10669,7 +10669,7 @@ the Grecians.
   That high as the immortal Gods he lifts                         85
   Our foes to glory, and depresses us.
   Haste therefore all, and act as I advise.
-  Our ships--all those that nearest skirt the Deep,
+  Our ships all those that nearest skirt the Deep,
   Launch we into the sacred flood, and moor
   With anchors safely, till o'ershadowing night                   90
   (If night itself may save us) shall arrive.
@@ -10842,7 +10842,7 @@ the Grecians.
   And music of resistless whisper'd sounds
   That from the wisest steal their best resolves;
   She placed it in her hands and thus she said.                  260
-    Take this--this girdle fraught with every charm.
+    Take this this girdle fraught with every charm.
   Hide this within thy bosom, and return,
   Whate'er thy purpose, mistress of it all.
     She spake; imperial Juno smiled, and still
@@ -10931,7 +10931,7 @@ the Grecians.
   Chalcis in heaven, on earth Cymindis named.
     But Juno swift to Gargarus the top
   Of Ida, soar'd, and there Jove saw his spouse.
-  --Saw her--and in his breast the same love felt                350
+   Saw her and in his breast the same love felt                350
   Rekindled vehement, which had of old
   Join'd them, when, by their parents unperceived,
   They stole aside, and snatch'd their first embrace.
@@ -10972,7 +10972,7 @@ the Grecians.
   The valiant Hercules; and though my son
   By Semele were Bacchus, joy of man;
   Nor Ceres golden-hair'd, nor high-enthroned                    390
-  Latona in the skies, no--nor thyself
+  Latona in the skies, no nor thyself
   As now I love thee, and my soul perceive
   O'erwhelm'd with sweetness of intense desire.
     Then thus majestic Juno her reply
@@ -11157,7 +11157,7 @@ the Grecians.
   Aloud exulted with a boundless joy.
     Vain-glorious Argives, archers inexpert!
   War's toil and trouble are not ours alone,                     575
-  But ye shall perish also; mark the man--
+  But ye shall perish also; mark the man 
   How sound he sleeps tamed by my conquering arm,
   Your fellow-warrior Promachus! the debt
   Of vengeance on my brother's dear behalf
@@ -11433,7 +11433,7 @@ Ajax slays twelve Trojans bringing fire to burn it.
   He, nought displeased that they his high command
   Had with such readiness obey'd, his speech
   To Iris, first, in accents wing'd address'd
-    Swift Iris, haste--to royal Neptune bear
+    Swift Iris, haste to royal Neptune bear
   My charge entire; falsify not the word.                        195
   Bid him, relinquishing the fight, withdraw
   Either to heaven, or to the boundless Deep.
@@ -11501,14 +11501,14 @@ Ajax slays twelve Trojans bringing fire to burn it.
   Me his compeer, and by decree of Fate
   Illustrious as himself; yet, though incensed,                  260
   And with just cause, I will not now persist.
-  But hear--for it is treasured in my heart
+  But hear for it is treasured in my heart
   The threat that my lips utter. If he still
   Resolve to spare proud Ilium in despite
   Of me, of Pallas, Goddess of the spoils,                       265
   Of Juno, Mercury, and the King of fire,
   And will not overturn her lofty towers,
   Nor grant immortal glory to the Greeks,
-  Then tell him thus--hostility shall burn,
+  Then tell him thus hostility shall burn,
   And wrath between us never to be quench'd.                     270
     So saying, the Shaker of the shores forsook
   The Grecian host, and plunged into the deep,
@@ -11546,7 +11546,7 @@ Ajax slays twelve Trojans bringing fire to burn it.
   Feeble and spiritless, and from thy host
   Apart? what new disaster hath befall'n?                        305
     To whom with difficulty thus replied
-  The warlike Chief.--But tell me who art Thou,
+  The warlike Chief. But tell me who art Thou,
   Divine inquirer! best of powers above!
   Know'st not that dauntless Ajax me his friends
   Slaughtering at yonder ships, hath with a stone                310
@@ -11839,7 +11839,7 @@ Ajax slays twelve Trojans bringing fire to burn it.
   He weakens and aids not; so now he leaves
   The Grecians, but propitious smiles on us.
   Therefore stand fast, and whosoever gall'd
-  By arrow or by spear, dies--let him die;                       600
+  By arrow or by spear, dies let him die;                       600
   It shall not shame him that he died to serve
   His country,[12] but his children, wife and home,
   With all his heritage, shall be secure,
@@ -12049,7 +12049,7 @@ Ajax slays twelve Trojans bringing fire to burn it.
   Possessions, parents; ye whose parents live,
   And ye whose parents are not, all alike!
   By them as if here present, I entreat
-  That ye stand fast--oh be not turn'd to flight!                810
+  That ye stand fast oh be not turn'd to flight!                810
     So saying he roused the courage of the Greeks;
   Then, Pallas chased the cloud fall'n from above
   On every eye; great light the plain illumed
@@ -12236,7 +12236,7 @@ Patroclus.
   Hence springs, and hence alone, my grief of heart;              65
   If one, in nought superior to myself
   Save in his office only, should by force
-  Amerce me of my well-earn'd recompense--
+  Amerce me of my well-earn'd recompense 
   How then? There lies the grief that stings my soul.
   The virgin chosen for me by the sons                            70
   Of Greece, my just reward, by my own spear
@@ -12283,7 +12283,7 @@ Patroclus.
   Thy slaughtering legions to the walls of Troy,
   Lest some immortal power on her behalf
   Descend, for much the Archer of the skies
-  Loves Ilium. No--the fleet once saved, lead back               115
+  Loves Ilium. No the fleet once saved, lead back               115
   Thy band, and leave the battle to themselves.
   For oh, by all the powers of heaven I would
   That not one Trojan might escape of all,
@@ -12321,7 +12321,7 @@ Patroclus.
   Achilles saw them, smote his thighs, and said,                 150
     Patroclus, noble charioteer, arise!
   I see the rapid run of hostile fires
-  Already in the fleet--lest all be lost,
+  Already in the fleet lest all be lost,
   And our return impossible, arm, arm
   This moment; I will call, myself, the band.                    155
     Then put Patroclus on his radiant arms.
@@ -12407,7 +12407,7 @@ Patroclus.
   The fourth band led to battle, and the fifth
   Laërceus' offspring, bold Alcimedon.
   Thus, all his bands beneath their proper Chiefs
-  Marshall'd, Achilles gave them strict command--
+  Marshall'd, Achilles gave them strict command 
     Myrmidons! all that vengeance now inflict,                   240
   Which in this fleet ye ceased not to denounce
   Against the Trojans while my wrath endured.
@@ -12417,11 +12417,11 @@ Patroclus.
   Suckled, who hold'st thy people here in camp
   Thus long imprison'd. Unrelenting Chief!
   Even let us hence in our sea-skimming barks
-  To Phthia, since thou can'st not be appeased--
+  To Phthia, since thou can'st not be appeased 
   Thus in full council have ye spoken oft.                       250
   Now, therefore, since a day of glorious toil
   At last appears, such as ye have desired,
-  There lies the field--go--give your courage proof.
+  There lies the field go give your courage proof.
     So them he roused, and they, their leader's voice
   Hearing elate, to closest order drew.                          255
   As when an architect some palace wall
@@ -13084,7 +13084,7 @@ Patroclus.
   With oysters satisfy, although the waves
   Were churlish, plunging headlong from his bark
   As easily as from his chariot here.                            915
-  So then--in Troy, it seems, are divers too!
+  So then in Troy, it seems, are divers too!
     So saying, on bold Cebriones he sprang
   With all a lion's force, who, while the folds
   He ravages, is wounded in the breast,
@@ -13210,7 +13210,7 @@ Patroclus.
   To slay; these foremost; but of mortal men
   Euphorbus, and thy praise is only third.                      1040
   I tell thee also, and within thy heart
-  Repose it deep--thou shalt not long survive;
+  Repose it deep thou shalt not long survive;
   But, even now, fate, and a violent death
   Attend thee by Achilles' hands ordain'd
   To perish, by Æacides the brave.[21]                          1045
@@ -13292,7 +13292,7 @@ Ajaces cover their retreat.
   His feet bore never hence to cheer at home
   His wife and parents with his glad return.
   So also shall thy courage fierce be tamed,                      35
-  If thou oppose me. I command thee, go--
+  If thou oppose me. I command thee, go 
   Mix with the multitude; withstand not me,
   Lest evil overtake thee! To be taught
   By sufferings only, is the part of fools.
@@ -13401,7 +13401,7 @@ Ajaces cover their retreat.
   With terrors irresistible himself
   Phoebus had fill'd. He ran, and at his side
   Standing, incontinent him thus bespake.
-    My gallant Ajax, haste--come quickly--strive                 145
+    My gallant Ajax, haste come quickly strive                 145
   With me to rescue for Achilles' sake
   His friend, though bare, for Hector hath his arms.
     He said, and by his words the noble mind
@@ -13553,7 +13553,7 @@ Ajaces cover their retreat.
   As for my life I tremble and for thine,
   That cloud of battle, Hector, such a gloom                     295
   Sheds all around; death manifest impends.
-  Haste--call our best, if even they can hear.
+  Haste call our best, if even they can hear.
     He spake, nor Menelaus not complied,
   But call'd aloud on all the Chiefs of Greece.
     Friends, senators, and leaders of the powers                 300
@@ -14039,7 +14039,7 @@ Ajaces cover their retreat.
   Father of heaven and earth! deliver thou                       780
   Achaia's host from darkness; clear the skies;
   Give day; and (since thy sovereign will is such)
-  Destruction with it--but oh give us day![13]
+  Destruction with it but oh give us day![13]
     He spake, whose tears Jove saw with pity moved,
   And chased the untimely shades; bright beam'd the sun          785
   And the whole battle was display'd. Then spake
@@ -14208,7 +14208,7 @@ suit of armor.
   His lofty barks, occupied, as he stood,
   With boding fears of all that had befall'n.                      5
   He groan'd, and to his noble self he said.
-    Ah! wo is me--why falls Achaia's host,
+    Ah! wo is me why falls Achaia's host,
   With such disorder foul, back on the fleet?
   I tremble lest the Gods my anxious thoughts
   Accomplish and my mother's words, who erst                      10
@@ -14303,7 +14303,7 @@ suit of armor.
   My mother! it is true; Olympian Jove
   That prayer fulfils; but thence, what joy to me,               100
   Patroclus slain? the friend of all my friends
-  Whom most I loved, dear to me as my life--
+  Whom most I loved, dear to me as my life 
   Him I have lost. Slain and despoil'd he lies
   By Hector of his glorious armor bright,
   The wonder of all eyes, a matchless gift                       105
@@ -14527,7 +14527,7 @@ suit of armor.
   Their common share of danger and of toil,
   And will at once strike at your citadel,
   Impatient till he make your wives his prey.                    325
-  Haste--let us home--else thus shall it befall;
+  Haste let us home else thus shall it befall;
   Night's balmy influence in his tent detains
   Achilles now, but rushing arm'd abroad
   To-morrow, should he find us lingering here,
@@ -14584,7 +14584,7 @@ suit of armor.
   Or I, great glory. Mars his favors deals                       380
   Impartial, and the slayer oft is slain.
   So counsell'd Hector, whom with shouts of praise
-  The Trojans answer'd:--fools, and by the power
+  The Trojans answer'd: fools, and by the power
   Of Pallas of all sober thought bereft!
   For all applauded Hector, who had given                        385
   Advice pernicious, and Polydamas,
@@ -14728,7 +14728,7 @@ suit of armor.
   On a bright throne, seized fast her hand and said,
     Why, Thetis! worthy as thou art of love                      525
   And of all reverence, hast thou arrived,
-  Unfrequent here? Speak--tell me thy desire,
+  Unfrequent here? Speak tell me thy desire,
   Nor doubt my services, if thou demand
   Things possible, and possible to me.
     Then Thetis, weeping plenteously, replied.                   530
@@ -14755,7 +14755,7 @@ suit of armor.
   Opens, affliction is his certain doom,
   Nor aid resides or remedy in me.
   The virgin, his own portion of the spoils,
-  Allotted to him by the Grecians--her
+  Allotted to him by the Grecians her
   Atrides, King of men, resumed, and grief                       555
   Devour'd Achilles' spirit for her sake.
   Meantime, the Trojans shutting close within
@@ -14944,7 +14944,7 @@ suit of armor.
   In finest linen, and the youths in vests                       740
   Well-woven, glossy as the glaze of oil.
   These all wore garlands, and bright falchions, those,
-  Of burnish'd gold in silver trappings hung:--[14]
+  Of burnish'd gold in silver trappings hung: [14]
   They with well-tutor'd step, now nimbly ran
   The circle, swift, as when, before his wheel                   745
   Seated, the potter twirls it with both hands
@@ -15171,12 +15171,12 @@ by Vulcan, leads out the Myrmidons to battle.
   Achilles must go forth. He must be seen
   Once more in front of battle, wasting wide                     180
   With brazen spear, the crowded ranks of Troy.
-  Mark him--and as he fights, fight also ye.
+  Mark him and as he fights, fight also ye.
     To whom Ulysses ever-wise replied.
-  Nay--urge not, valiant as thou art thyself,
+  Nay urge not, valiant as thou art thyself,
   Achaia's sons up to the battlements                            185
   Of Ilium, by repast yet unrefresh'd,
-  Godlike Achilles!--For when phalanx once
+  Godlike Achilles! For when phalanx once
   Shall clash with phalanx, and the Gods with rage
   Both hosts inspire, the contest shall not then
   Prove short. Bid rather the Achaians take                      190
@@ -15191,7 +15191,7 @@ by Vulcan, leads out the Myrmidons to battle.
   Fed with due nourishment, although he fight
   All day, yet feels his courage unimpair'd,                     200
   Nor weariness perceives till all retire.
-  Come then--dismiss the people with command
+  Come then dismiss the people with command
   That each prepare replenishment. Meantime
   Let Agamemnon, King of men, his gifts
   In presence here of the assembled Greeks                       205
@@ -15267,7 +15267,7 @@ by Vulcan, leads out the Myrmidons to battle.
   Ourselves, all we who still survive the war,                   275
   Have need of sustenance, that we may bear
   The lengthen'd conflict with recruited might,
-  Case in enduring brass.--Ye all have heard
+  Case in enduring brass. Ye all have heard
   Your call to battle; let none lingering stand
   In expectation of a farther call,                              280
   Which if it sound, shall thunder prove to him
@@ -15360,7 +15360,7 @@ by Vulcan, leads out the Myrmidons to battle.
   The dead Patroclus, but, in truth, herself.[9]
   Then the Achaian Chiefs gather'd around
   Achilles, wooing him to eat, but he                            370
-  Groan'd and still resolute, their suit refused--
+  Groan'd and still resolute, their suit refused 
     If I have here a friend on whom by prayers
   I may prevail, I pray that ye desist,
   Nor longer press me, mourner as I am,
@@ -15415,7 +15415,7 @@ by Vulcan, leads out the Myrmidons to battle.
   Before his gallant fleet mourning he sits
   His friend, disconsolate; the other Greeks
   Sat and are satisfied; he only fasts.                          425
-  Go then--instil nectar into his breast,
+  Go then instil nectar into his breast,
   And sweets ambrosial, that he hunger not.
     So saying, he urged Minerva prompt before.
   In form a shrill-voiced Harpy of long wing
@@ -15836,7 +15836,7 @@ Hector. Achilles slays many Trojans.
   Such is my lineage, and such blood I boast;                    300
   But valor is from Jove; he, as he wills,
   Increases or reduces it in man,
-  For he is lord of all. Therefore enough--
+  For he is lord of all. Therefore enough 
   Too long like children we have stood, the time
   Consuming here, while battle roars around.                     305
   Reproach is cheap. Easily might we cast
@@ -15845,7 +15845,7 @@ Hector. Achilles slays many Trojans.
   The tongue of man is voluble, hath words
   For every theme, nor wants wide field and long,                310
   And as he speaks so shall he hear again.
-  But we--why should we wrangle, and with taunts
+  But we why should we wrangle, and with taunts
   Assail each other, as the practice is
   Of women, who with heart-devouring strife
   On fire, start forth into the public way                       315
@@ -15963,7 +15963,7 @@ Hector. Achilles slays many Trojans.
   Now will I rouse the Danaï, and prove
   The force in fight of many a Trojan more.
     He said, and sprang to battle with loud voice,
-  Calling the Grecians after him.--Ye sons                       430
+  Calling the Grecians after him. Ye sons                       430
   Of the Achaians! stand not now aloof,
   My noble friends! but foot to foot let each
   Fall on courageous, and desire the fight.
@@ -16103,7 +16103,7 @@ Hector. Achilles slays many Trojans.
   Assaulted, sons of Bias; to the ground
   Dismounting both, one with his spear he slew,
   The other with his falchion at a blow.
-  Tros too, Alastor's son--he suppliant clasp'd                  570
+  Tros too, Alastor's son he suppliant clasp'd                  570
   Achilles' knees, and for his pity sued,
   Pleading equality of years, in hope
   That he would spare, and send him thence alive.
@@ -16312,7 +16312,7 @@ him.
   Die therefore, even thou, my friend! What mean
   Thy tears unreasonably shed and vain?
   Died not Patroclus. braver far than thou?                      130
-  And look on me--see'st not to what a height
+  And look on me see'st not to what a height
   My stature towers, and what a bulk I boast?
   A King begat me, and a Goddess bore.
   What then! A death by violence awaits
@@ -16404,14 +16404,14 @@ him.
   His foot, despoil'd him, and exulting cried.                   220
     Lie there; though River-sprung, thou find'st it hard
   To cope with sons of Jove omnipotent.
-  Thou said'st, a mighty River is my sire--
+  Thou said'st, a mighty River is my sire 
   But my descent from mightier Jove I boast;
   My father, whom the Myrmidons obey,                            225
   Is son of Æacus, and he of Jove.
   As Jove all streams excels that seek the sea,
   So, Jove's descendants nobler are than theirs.
-  Behold a River at thy side--let him
-  Afford thee, if he can, some succor--No--                      230
+  Behold a River at thy side let him
+  Afford thee, if he can, some succor No                       230
   He may not fight against Saturnian Jove.
   Therefore, not kingly Acheloïus,
   Nor yet the strength of Ocean's vast profound,
@@ -16547,7 +16547,7 @@ him.
   Check, if we may, this warrior; he shall else
   Soon lay the lofty towers of Priam low,
   Whose host appall'd, defend them now no more.                  365
-  Haste--succor me--thy channel fill with streams
+  Haste succor me thy channel fill with streams
   From all thy fountains; call thy torrents down;
   Lift high the waters; mingle trees and stones
   With uproar wild, that we may quell the force
@@ -16675,7 +16675,7 @@ him.
   Daughter of Jove, whom soon as Juno mark'd,
   In accents wing'd to Pallas thus she spake.
     Daughter invincible of glorious Jove!
-  Haste--follow her--Ah shameless! how she leads
+  Haste follow her Ah shameless! how she leads
   Gore-tainted Mars through all the host of heaven.              495
     So she, whom Pallas with delight obey'd;
   To Venus swift she flew, and on the breast
@@ -16747,12 +16747,12 @@ him.
   To match my force were difficult to thee.
   Is it, because by ordinance of Jove
   Thou art a lioness to womankind,                               565
-  Killing them at thy pleasure? Ah beware--
+  Killing them at thy pleasure? Ah beware 
   Far easier is it, on the mountain-heights
   To slay wild beasts and chase the roving hind,
   Than to conflict with mightier than ourselves.
   But, if thou wish a lesson on that theme,                      570
-  Approach--thou shalt be taught with good effect
+  Approach thou shalt be taught with good effect
   How far my force in combat passes thine.
     She said, and with her left hand seizing both
   Diana's wrists, snatch'd suddenly the bow
@@ -16791,7 +16791,7 @@ him.
   The other Gods, some angry, some elate
   With victory, the Olympian heights regain'd,
   And sat beside the Thunderer. But the son
-  Of Peleus--He both Trojans slew and steeds.                    610
+  Of Peleus He both Trojans slew and steeds.                    610
   As when in volumes slow smoke climbs the skies
   From some great city which the Gods have fired
   Vindictive, sorrow thence to many ensues
@@ -16840,7 +16840,7 @@ him.
   And swift pursuing seize me, then, farewell
   All hope to scape a miserable death,
   For he hath strength passing the strength of man.
-  How then--shall I withstand him here before
+  How then shall I withstand him here before
   The city? He hath also flesh to steel                          660
   Pervious, within it but a single life,
   And men report him mortal, howsoe'er
@@ -16901,7 +16901,7 @@ and description are narrowed in extent, but deepened in interest. The
 fate of Troy is impending; the irreversible decree of Jupiter is about
 to be executed; the heroes, whose bravery is to be the instrument of
 bringing about this consummation, are left together on the
-plain.--FELTON.
+plain. FELTON.
 
 
 
@@ -16947,7 +16947,7 @@ plain.--FELTON.
   No few had at this moment gnaw'd the glebe.
   Thou hast defrauded me of great renown,
   And, safe thyself, hast rescued _them_ with ease.
-  Ah--had I power, I would requite thee well.
+  Ah had I power, I would requite thee well.
     So saying, incensed he turned toward the town                 25
   His rapid course, like some victorious steed
   That whirls, at stretch, a chariot to the goal.
@@ -17045,7 +17045,7 @@ plain.--FELTON.
   Had proved more profitable far; since then
   By rash resolves of mine I have destroy'd                      120
   The people, how can I escape the blame
-  Of all in Troy? The meanest there will say--
+  Of all in Troy? The meanest there will say 
   By his self-will he hath destroy'd us all.
   So shall they speak, and then shall I regret
   That I return'd ere I had slain in fight                       125
@@ -17118,7 +17118,7 @@ plain.--FELTON.
   So they with nimble feet the city thrice
   Of Priam compass'd. All the Gods look'd on,
   And thus the Sire of Gods and men began.
-    Ah--I behold a warrior dear to me                            195
+    Ah I behold a warrior dear to me                            195
   Around the walls of Ilium driven, and grieve
   For Hector, who the thighs of fatted bulls
   On yonder heights of Ida many-valed
@@ -17156,7 +17156,7 @@ plain.--FELTON.
   Still ever stretch'd toward the walls again.                   230
   As, in a dream,[10] pursuit hesitates oft,
   This hath no power to fly, that to pursue,
-  So these--one fled, and one pursued in vain.
+  So these one fled, and one pursued in vain.
   How, then, had Hector his impending fate
   Eluded, had not Phoebus, at his last,                          235
   Last effort meeting him, his strength restored,
@@ -17205,7 +17205,7 @@ plain.--FELTON.
   Clasping my knees, and all my friends implored me
   To stay in Troy, (such fear hath seized on all)                280
   But grief for thee prey'd on my inmost soul.
-  Come--fight we bravely--spare we now our spears
+  Come fight we bravely spare we now our spears
   No longer; now for proof if Peleus' son
   Slaying us both, shall bear into the fleet
   Our arms gore-stain'd, or perish slain by thee.                285
@@ -17327,7 +17327,7 @@ plain.--FELTON.
   Such griefs I owe; so true it is and sure,
   That none shall save thy carcase from the dogs.
   No, trust me, would thy parents bring me weigh'd
-  Ten--twenty ransoms, and engage on oath
+  Ten twenty ransoms, and engage on oath
   To add still more; would thy Dardanian Sire                    405
   Priam, redeem thee with thy weight in gold,
   Not even at that price would I consent
@@ -17502,8 +17502,8 @@ plain.--FELTON.
   A thirst-provoking drop, and grudges more;
   Some happier child, as yet untaught to mourn
   A parent's loss, shoves rudely from the board
-  My son, and, smiting him, reproachful cries--
-  Away--thy father is no guest of ours--                         580
+  My son, and, smiting him, reproachful cries 
+  Away thy father is no guest of ours                          580
   Then, weeping, to his widow'd mother comes
   Astyanax, who on his father's lap
   Ate marrow only, once, and fat of lambs,[17]
@@ -17600,7 +17600,7 @@ plain.--FELTON.
   Around an ample vase, with purpose kind                         50
   Moving Achilles from his limbs to cleanse
   The stains of battle; but he firm refused
-  That suit, and bound refusal with an oath--
+  That suit, and bound refusal with an oath 
     No; by the highest and the best of all,
   By Jove I will not. Never may it be                             55
   That brazen bath approach this head of mine,
@@ -18053,7 +18053,7 @@ plain.--FELTON.
   Him follow'd Menelaus amber-hair'd,
   The son of Atreus, and his father's steeds
   Encouraging, thus spake Antilochus.                            505
-    Away--now stretch ye forward to the goal.
+    Away now stretch ye forward to the goal.
   I bid you not to an unequal strife
   With those of Diomede, for Pallas them
   Quickens that he may conquer, and the Chief
@@ -18067,7 +18067,7 @@ plain.--FELTON.
   My valiant sire, but he will thrust his spear
   Right through you, should we lose, for sloth of yours,
   Or by your negligence, the nobler prize.
-  Haste then--pursue him--reach the royal Chief--                520
+  Haste then pursue him reach the royal Chief                 520
   And how to pass him in yon narrow way
   Shall be my care, and not my care in vain.
     He ended; they, awhile, awed by his voice,
@@ -18081,7 +18081,7 @@ plain.--FELTON.
   Antilochus. Then Menelaus fear'd,
   And with loud voice the son of Nestor hail'd.
     Antilochus, at what a madman's rate
-  Drivest thou! stop--check thy steeds--the way is here
+  Drivest thou! stop check thy steeds the way is here
   Too strait, but widening soon, will give thee scope            535
   To pass me by; beware, lest chariot close
   To chariot driven, thou maim thyself and me.
@@ -18154,7 +18154,7 @@ plain.--FELTON.
   Ajax! whom none in wrangling can excel
   Or rudeness, though in all beside thou fall                    605
   Below the Argives, being boorish-rough,
-  Come now--a tripod let us wager each,
+  Come now a tripod let us wager each,
   Or caldron, and let Agamemnon judge
   Whose horses lead, that, losing, thou may'st learn.
     He said; then sudden from his seat upsprang                  610
@@ -18162,7 +18162,7 @@ plain.--FELTON.
   For harsh retort, nor had the contest ceased
   Between them, but had grown from ill to worse,
   Had not himself, Achilles, interposed.
-    Ajax--Idomeneus--abstain ye both                             615
+    Ajax Idomeneus abstain ye both                             615
   From bitter speech offensive, and such terms
   As ill become you. Ye would feel, yourselves,
   Resentment, should another act as ye.
@@ -18263,7 +18263,7 @@ plain.--FELTON.
   Antilochus by falsehood down, and led
   The mare away, because, although his steeds
   Were worse, his arm was mightier, and prevail'd.               715
-  Yet hold--myself will judge, and will to all
+  Yet hold myself will judge, and will to all
   Contentment give, for I will judge aright.
   Hither, Antilochus, illustrious youth!
   And, as the law prescribes, standing before
@@ -18386,7 +18386,7 @@ plain.--FELTON.
   That I to no pre-eminence pretend
   In battle? To attain to foremost praise
   Alike in every art is not for one.
-  But this I promise, and will well perform--
+  But this I promise, and will well perform 
   My blows shall lay him open, split him, crush                  840
   His bones to splinters, and let all his friends,
   Attendant on him, wait to bear him hence,
@@ -18522,7 +18522,7 @@ plain.--FELTON.
   The cup, and Ajax took his prize, the ox.
   He grasp'd his horn, and sputtering as he stood
   The ordure forth, the Argives thus bespake.
-    Ah--Pallas tripp'd my footsteps; she attends                 975
+    Ah Pallas tripp'd my footsteps; she attends                 975
   Ulysses ever with a mother's care.
     Loud laugh'd the Grecians. Then, the remnant prize
   Antilochus receiving, smiled and said.
@@ -18570,7 +18570,7 @@ plain.--FELTON.
   Of Ajax, thrust a lance home to his neck,                     1020
   And the Achaians for the life appall'd
   Of Ajax, bade them, ceasing, share the prize.
-  But the huge falchion with its sheath and belt--
+  But the huge falchion with its sheath and belt 
   Achilles them on Diomede bestow'd.
     The hero, next, an iron clod produced                       1025
   Rough from the forge, and wont to task the might
@@ -18690,7 +18690,7 @@ manner of his funeral, circumstantially described, concludes the poem.
   Of such a friend, so manly, and so brave.
   Their fellowship in toil; their hardships oft
   Sustain'd in fight laborious, or o'ercome                       10
-  With difficulty on the perilous deep--
+  With difficulty on the perilous deep 
   Remembrance busily retracing themes
   Like these, drew down his cheeks continual tears.
   Now on his side he lay, now lay supine,
@@ -18798,7 +18798,7 @@ manner of his funeral, circumstantially described, concludes the poem.
     To whom the Goddess of the silver feet.
   Why calls the mighty Thunderer me? I fear,
   Oppress'd with countless sorrows as I am,
-  To mingle with the Gods. Yet I obey--
+  To mingle with the Gods. Yet I obey 
   No word of his can prove an empty sound.                       120
     So saying, the Goddess took her sable veil
   (Eye ne'er beheld a darker) and began
@@ -18850,7 +18850,7 @@ manner of his funeral, circumstantially described, concludes the poem.
   And woman grief's best cure; for length of days
   Is not thy doom, but, even now, thy death
   And ruthless destiny are on the wing.                          170
-  Mark me,--I come a lieger sent from Jove.
+  Mark me, I come a lieger sent from Jove.
   The Gods, he saith, resent it, but himself
   More deeply than the rest, that thou detain'st
   Amid thy fleet, through fury of revenge,
@@ -18858,7 +18858,7 @@ manner of his funeral, circumstantially described, concludes the poem.
   Ransom, and to his friends resign the dead.
     To whom Achilles, swiftest of the swift.
   Come then the ransomer, and take him hence;
-  If Jove himself command it,--be it so.
+  If Jove himself command it, be it so.
     So they, among the ships, conferring sat                     180
   On various themes, the Goddess and her son;
   Meantime Saturnian Jove commanded down
@@ -18880,7 +18880,7 @@ manner of his funeral, circumstantially described, concludes the poem.
   Nor will himself Achilles slay him there,
   Or even permit his death, but will forbid
   All violence; for he is not unwise                             200
-  Nor heedless, no--nor wilful to offend,
+  Nor heedless, no nor wilful to offend,
   But will his suppliant with much grace receive.[5]
     He ceased; then Iris tempest-wing'd arose,
   Jove's messenger, and, at the gates arrived
@@ -18918,7 +18918,7 @@ manner of his funeral, circumstantially described, concludes the poem.
   Nor will himself Achilles slay thee there,
   Or even permit thy death, but will forbid
   All violence; for he is not unwise
-  Nor heedless, no--nor wilful to offend,
+  Nor heedless, no nor wilful to offend,
   But will his suppliant with much grace receive.                240
     So spake the swift ambassadress, and went.
   Then, calling to his sons, he bade them bring
@@ -18944,7 +18944,7 @@ manner of his funeral, circumstantially described, concludes the poem.
   Of thine have fallen? Thou hast an iron heart!
   For should that savage man and faithless once
   Seize and discover thee, no pity expect
-  Or reverence at his hands. Come--let us weep                   265
+  Or reverence at his hands. Come let us weep                   265
   Together, here sequester'd; for the thread
   Spun for him by his destiny severe
   When he was born, ordain'd our son remote
@@ -19000,7 +19000,7 @@ manner of his funeral, circumstantially described, concludes the poem.
   Helenus, Paris, noble Agathon,
   Pammon, Antiphonus, and bold in fight
   Polites, Dios of illustrious fame,                             320
-  Hippothoüs and Deiphobus--all nine
+  Hippothoüs and Deiphobus all nine
   He call'd, thus issuing, angry, his commands.
     Quick! quick! ye slothful in your father's cause,
   Ye worthless brood! would that in Hector's stead
@@ -19219,7 +19219,7 @@ manner of his funeral, circumstantially described, concludes the poem.
   Lived not unmindful of the worship due
   To the Olympian powers, who, therefore, him
   Remember, even in the bands of death.
-  Come then--this beauteous cup take at my hand--                540
+  Come then this beauteous cup take at my hand                 540
   Be thou my guard, and, if the Gods permit,
   My guide, till to Achilles' tent I come.
     Whom answer'd then the messenger of heaven.
@@ -19306,8 +19306,8 @@ manner of his funeral, circumstantially described, concludes the poem.
   Born of my concubines. A numerous house!
   But fiery Mars hath thinn'd it. One I had,                     625
   One, more than all my sons the strength of Troy,
-  Whom standing for his country thou hast slain--
-  Hector--his body to redeem I come
+  Whom standing for his country thou hast slain 
+  Hector his body to redeem I come
   Into Achaia's fleet, bringing, myself,
   Ransom inestimable to thy tent.                                630
   Reverence the Gods, Achilles! recollect
@@ -19334,7 +19334,7 @@ manner of his funeral, circumstantially described, concludes the poem.
   Of the Achaians, and his face by whom
   So many of thy valiant sons have fallen?
   Thou hast a heart of iron, terror-proof.
-  Come--sit beside me--let us, if we may,                        665
+  Come sit beside me let us, if we may,                        665
   Great mourners both, bid sorrow sleep awhile.
   There is no profit of our sighs and tears;
   For thus, exempt from care themselves, the Gods

@@ -55,10 +55,10 @@ goddess Hera of white arms put the thought, because she had pity on the
 Danaans when she beheld them perishing. Now when they had gathered and
 were met in assembly, then Achilles fleet of foot stood up and spake
 among them: "Son of Atreus, now deem I that we shall return wandering
-home again--if verily we might escape death--if war at once and
+home again if verily we might escape death if war at once and
 pestilence must indeed ravage the Achaians. But come, let us now inquire
-of some soothsayer or priest, yea, or an interpreter of dreams--seeing
-that a dream too is of Zeus--who shall say wherefore Phoebus Apollo is
+of some soothsayer or priest, yea, or an interpreter of dreams seeing
+that a dream too is of Zeus who shall say wherefore Phoebus Apollo is
 so wroth, whether he blame us by reason of vow or hecatomb; if perchance
 he would accept the savour of lambs or unblemished goats, and so would
 take away the pestilence from us."
@@ -125,7 +125,7 @@ thou art, O godlike Achilles, beguile thou me by craft; thou shalt not
 outwit me nor persuade me. Dost thou wish, that thou mayest keep thy
 meed of honour, for me to sit idle in bereavement, and biddest me give
 her back? Nay, if the great-hearted Achaians will give me a meed suited
-to my mind, that the recompense be equal--but if they give it not, then
+to my mind, that the recompense be equal but if they give it not, then
 I myself will go and take a meed of honour, thine be it or Aias', or
 Odysseus' that I will take unto me; wroth shall he be to whomsoever I
 come. But for this we will take counsel hereafter; now let us launch a
@@ -218,7 +218,7 @@ twig, seeing it hath for ever left its trunk among the hills, neither
 shall it grow green again, because the axe hath stripped it of leaves
 and bark; and now the sons of the Achaians that exercise judgment bear
 it in their hands, even they that by Zeus' command watch over the
-traditions--so shall this be a mighty oath in thine eyes--verily shall
+traditions so shall this be a mighty oath in thine eyes verily shall
 longing for Achilles come hereafter upon the sons of the Achaians one
 and all; and then wilt thou in no wise avail to save them, for all thy
 grief, when multitudes fall dying before manslaying Hector. Then shalt
@@ -368,7 +368,7 @@ when all the other Olympians would have bound him, even Hera and
 Poseidon and Pallas Athene. Then didst thou, O goddess, enter in and
 loose him from his bonds, having with speed summoned to high Olympus him
 of the hundred arms whom gods call Briareus, but all men call Aigaion;
-for he is mightier even than his father--so he sate him by Kronion's
+for he is mightier even than his father so he sate him by Kronion's
 side rejoicing in his triumph, and the blessed gods feared him withal
 and bound not Zeus. This bring thou to his remembrance and sit by him
 and clasp his knees, if perchance he will give succour to the Trojans;
@@ -886,7 +886,7 @@ wherein we trusted. For we are vainly striving with words nor can we
 find any device at all, for all our long tarrying here. Son of Atreus,
 do thou still, as erst, keep steadfast purpose and lead the Argives amid
 the violent fray; and for these, let them perish, the one or two
-Achaians that take secret counsel--to depart to Argos first, before they
+Achaians that take secret counsel to depart to Argos first, before they
 know whether the promise of aegis-bearing Zeus be a lie or no. Yea, for
 I say that most mighty Kronion pledged us his word that day when the
 Argives embarked upon their fleet ships, bearing unto the Trojans death
@@ -1001,9 +1001,9 @@ foremost amid the herd, for his is pre-eminent amid the pasturing kine,
 even such did Zeus make Atreides on that day, pre-eminent among many and
 chief amid heroes.
 
-Tell me now, ye Muses that dwell in the mansions of Olympus--seeing that
+Tell me now, ye Muses that dwell in the mansions of Olympus seeing that
 ye are goddesses and are at hand and know all things, but we hear only a
-rumour and know not anything--who were the captains of the Danaans and
+rumour and know not anything who were the captains of the Danaans and
 their lords. But the common sort could I not number nor name, nay, not
 if ten tongues were mine and ten mouths, and a voice unwearied, and my
 heart of bronze within me, did not the Muses of Olympus, daughters of
@@ -1056,10 +1056,10 @@ the breasts of the foes. And with him forty black ships followed.
 
 And they that possessed the goodly citadel of Athens, the domain of
 Erechtheus the high-hearted, whom erst Athene daughter of Zeus fostered
-when Earth, the grain-giver, brought him to birth;--and she gave him a
+when Earth, the grain-giver, brought him to birth; and she gave him a
 resting-place in Athens in her own rich sanctuary; and there the sons of
 the Athenians worship him with bulls and rams as the years turn in their
-courses--these again were led of Menestheus son of Peteos. And there was
+courses these again were led of Menestheus son of Peteos. And there was
 no man upon the face of earth that was like him for the marshalling of
 horsemen and warriors that bear the shield. Only Nestor rivalled him,
 for he was the elder by birth. And with him rivalled him, for he was the
@@ -1100,13 +1100,13 @@ heart and groans."].
 
 And of them that dwelt in Pylos and lovely Arene and Thryon the
 fording-place of Alpheios, and in established Aipy, and were inhabitants
-of Kyparisseis and Amphigeneia and Pteleos and Helos and Dorion--where
+of Kyparisseis and Amphigeneia and Pteleos and Helos and Dorion where
 the Muses met Thamyris the Thracian, and made an end of his singing, as
 he was faring from Oichalia, from Eurytos the Oichalian; for he averred
 with boasting that he would conquer, even did the Muses themselves sing
 against him, the daughters of aegis-bearing Zeus; but they in their
 anger maimed him, moreover they took from him the high gift of song and
-made him to forget his harping--of all these was knightly Nestor of
+made him to forget his harping of all these was knightly Nestor of
 Gerenia leader, and with him sailed ninety hollow ships.
 
 And of them that possessed Arkadia beneath the steep mountain of
@@ -1374,7 +1374,7 @@ But Nastes led the Karians, uncouth of speech, that possessed Miletos
 and the mountain of Phthires, of leafage numberless, and the streams of
 Maiandros and the steep crest of Mykale. These were led of Amphimachos
 and Nastes: Nastes and Amphimachos the glorious children of Nomion. And
-he came, forsooth, to battle with golden attire like a girl--fond man:
+he came, forsooth, to battle with golden attire like a girl fond man:
 that held not back in any wise grievous destruction, but he was
 vanguished by the hands of fleet-footed Aiakides in the river, and
 wise-hearted Achilles carried away his gold.
@@ -1445,7 +1445,7 @@ hadst thou donned a robe of stone [i.e., been stoned by the people] for
 all the ill thou hast wrought."
 
 And godlike Alexandros made answer to him again: "Hector, since in
-measure thou chidest me and not beyond measure--they heart is ever keen,
+measure thou chidest me and not beyond measure they heart is ever keen,
 even as an axe that pierceth a beam at the hand of a man that shapeth a
 ship's timber with skill, and thereby is the man's blow strengthened;
 even such is thy heart undaunted in thy breast. Cast not in my teeth the
@@ -1541,7 +1541,7 @@ So said they, and Priam lifted up his voice and called to Helen: "Come
 hither, dear child, and sit before me, that thou mayest see thy former
 husband and they kinsfolk and thy friends. I hold thee not to blame;
 nay, I hold the gods to blame who brought on me the dolorous war of the
-Achaians--so mayest thou now tell me who is this huge hero, this Achaian
+Achaians so mayest thou now tell me who is this huge hero, this Achaian
 warrior so goodly and great. Of a truth there are others even taller by
 a head; yet mine eyes never behold a man so beautiful nor so royal; for
 he is like unto one that is a king."
@@ -1758,8 +1758,8 @@ Alexandros, and will lead me, accursed me, to his home. Therefore thou
 comest hither with guileful intent. Go and sit thou by his side and
 depart from the way of the gods; neither let thy feet ever bear thee
 back to Olympus, but still be vexed for his sake and guard him till he
-make thee his wife or perchance his slave. But thither will I not go--
-that were a sinful thing--to array the bed of him; all the women of Troy
+make thee his wife or perchance his slave. But thither will I not go 
+that were a sinful thing to array the bed of him; all the women of Troy
 will blame me thereafter; and I have griefs untold within my soul."
 
 Then in wrath bright Aphrodite spake to her: "Provoke me not, rash
@@ -1790,9 +1790,9 @@ And Paris made answer to her and said: "Chide not my soul, lady, with
 cruel taunts. For now indeed hath Menelaos vanquished me with Athene's
 aid, but another day may I do so unto him; for we too have gods with us.
 But come now, let us have joy of love upon our couch; for never yet hath
-love so enwrapped my heart--not even then when first I snatched thee
+love so enwrapped my heart not even then when first I snatched thee
 from lovely Lakedaimon and sailed with thee on my sea-faring ships, and
-in the isle of Kranae had converse with thee upon thy couch in love--as
+in the isle of Kranae had converse with thee upon thy couch in love as
 I love thee now and sweet desire taketh hold upon me." So saying he led
 the way to the couch, and the lady followed with him.
 
@@ -2512,7 +2512,7 @@ perchance the Achaians might take from him the corpse; and strode over
 him like a lion confident in his strength, and held before him his spear
 and the circle of his shield, eager to slay whoe'er should come to face
 him, crying his terrible cry. Then Tydeides grasped in his hand a
-stone--a mighty deed--such as two men, as men now are, would not avail
+stone a mighty deed such as two men, as men now are, would not avail
 to lift; yet he with ease wielded it all alone. Therewith he smote
 Aineias on the hip where the thigh turneth in the hip joint, and this
 men call the "cup-bone." So he crushed his cup-bone, and brake both
@@ -2652,7 +2652,7 @@ keen spears went everywhere through the host, urging them to fight, and
 roused the dread battle-cry. So they were rallied and stood to face the
 Achaians: and the Argives withstood them in close array and fled not.
 Even as a wind carrieth the chaff about the sacred threshing-floors when
-men are winnowing, and the chaff-heaps grow white--so now grew the
+men are winnowing, and the chaff-heaps grow white so now grew the
 Achaians white with falling dust which in their midst the horses' hooves
 beat up into the brazen heaven, as fight was joined again, and the
 charioteers wheeled round. Thus bare they forward the fury of their
@@ -2730,7 +2730,7 @@ Trojans. But when the white-armed goddess Hera marked them making havoc
 of the Argives in the press of battle, anon she spake winged words to
 Athene: "Out on it, thou daughter of aegis-bearing Zeus, unwearied
 maiden! Was it for naught we pledged our word to Menelaos, that he
-should not depart till he had laid waste well-walled Ilios,--if thus we
+should not depart till he had laid waste well-walled Ilios, if thus we
 let baleful Ares rage? Go to now, let us twain also take thought of
 impetuous valour."
 
@@ -2986,16 +2986,16 @@ sons and brethren and friends and husbands. But he bade them thereat all
 in turn pray to the gods; but sorrow hung over many.
 
 But when he came to Priam's beautiful palace, adorned with polished
-colonnades--and in it were fifty chambers of polished stone, builded
+colonnades and in it were fifty chambers of polished stone, builded
 hard by one another, wherein Priam's sons slept beside their wedded
 wives; and for his daughters over against them on the other side within
 the courtyard were twelve roofed chambers of polished stone builded hard
 by one another, wherein slept Priam's sons-in-law beside their chaste
-wives--then came there to meet him his bountiful mother, leading with
+wives then came there to meet him his bountiful mother, leading with
 her Laodike, fairest of her daughters to look on; and she clasped her
 hand in his, and spake, and called upon his name: "My son, why hast thou
 left violent battle to come hither. Surely the sons of the
-Achaians--name of evil!--press thee hard in fight about thy city, and so
+Achaians name of evil! press thee hard in fight about thy city, and so
 thy spirit hath brought thee hither, to come and stretch forth thy hands
 to Zeus from the citadel. But tarry till I bring thee honey-sweet wine,
 that thou mayest pour libation to Zeus and all the immortals first, and
@@ -3222,8 +3222,8 @@ each the other by the oak-tree. To her spake first king Apollo son of
 Zeus: "Why now art thou come thus eagerly from Olympus, thou daughter of
 great Zeus, and why hath thy high heart sent thee? Surely it is to give
 the Danaans unequal victory in battle! seeing thou hast no mercy on the
-Trojans, that perish. But if thou wouldest hearken to me--and it were
-far better so--let us now stay battle and warring for the day; hereafter
+Trojans, that perish. But if thou wouldest hearken to me and it were
+far better so let us now stay battle and warring for the day; hereafter
 shall they fight again, till they reach the goal of Ilios, since thus it
 seemeth good to your hearts, goddesses immortal, to lay waste this
 city."
@@ -3341,7 +3341,7 @@ spake: "My friends, verily the lot is mine, yea and myself am glad at
 heart, because I deem that I shall vanquish goodly Hector. But come now,
 while I clothe me in my armour of battle, pray ye the while to Kronos'
 son king Zeus, in silence to yourselves, that the Trojans hear you
-not--nay rather, openly if ye will, for we have no fear of any man
+not nay rather, openly if ye will, for we have no fear of any man
 soever. For none by force shall chase me, he willing me unwilling,
 neither by skill; seeing I hope that not so skill-less, either, was I
 born in Salamis nor nurtured."
@@ -3614,7 +3614,7 @@ city of the Trojans and ships of the Achaians.
 
 Now the flowing-haired Achaians took meat hastily among the huts and
 thereafter arrayed themselves. Likewise the Trojans on their side armed
-them throughout the town--a smaller host, yet for all that were they
+them throughout the town a smaller host, yet for all that were they
 eager to fight in battle, of forceful need, for their children's sake
 and their wives'. And the gates were opened wide and the host issued
 forth, footmen and horsemen; and mighty din arose.
@@ -3702,7 +3702,7 @@ Then Diomedes of the loud war-cry answered him: "Yea verily, old man,
 all this thou sayest is according unto right. But this is the sore grief
 that entereth my heart and soul: Hector some day shall say as he maketh
 harangue amid the Trojans: 'Tydeides betook him to the ships in flight
-before my face.' So shall he boast--in that day let the wide earth yawn
+before my face.' So shall he boast in that day let the wide earth yawn
 for me."
 
 So spake he and turned the whole-hooved horses to flight, back through
@@ -3759,7 +3759,7 @@ neither suffer that the Achaians be thus vanquished of the Trojans."
 
 So spake he, and the Father had pity on him as he wept, and vouchsafed
 him that his folk should be saved and perish not. Forthwith sent he an
-eagle--surest sign among winged fowl--holding in his claws a fawn, the
+eagle surest sign among winged fowl holding in his claws a fawn, the
 young of a fleet hind; beside the beautiful altar of Zeus he let fall
 the fawn, where the Achaians did sacrifice unto Zeus lord of all
 oracles. So when they saw that the bird was come from Zeus, they sprang
@@ -3884,7 +3884,7 @@ hate! Howsoever, seeing that my might is so great and my hands
 invincible, all the gods that are in Olympus could not turn me: and for
 you twain, trembling erst gat hold upon your bright limbs ere that ye
 beheld war and war's fell deeds. For thus will I declare, and even so
-had the fulfilment been--never had ye, once smitten with the
+had the fulfilment been never had ye, once smitten with the
 thunderbolt, fared on your chariots back unto Olympus where is the
 habitation of the immortals."
 
@@ -4132,7 +4132,7 @@ noble Odysseus led the way, and they stood before his face; and Achilles
 sprang up amazed with the lyre in his hand, and left the seat where he
 was sitting, and in like manner Patroklos when he beheld the men arose.
 Then Achilles fleet of foot greeted them and said: "Welcome; verily ye
-are friends that are come--sore indeed is the need--even ye that are
+are friends that are come sore indeed is the need even ye that are
 dearest of the Achaians to me even in my wrath."
 
 So spake noble Achilles and led them forward, and made them sit on
@@ -4214,7 +4214,7 @@ his battle far from the wall, but scarce came unto the Skaian gates and
 to the oak-tree; there once he awaited me alone and scarce escaped my
 onset. But now, seeing I have no mind to fight with noble Hector, I will
 to-morrow do sacrifice to Zeus and all the gods, and store well my ships
-when I have launched them on the salt sea--then shalt thou see, if thou
+when I have launched them on the salt sea then shalt thou see, if thou
 wilt and hast any care therefor, my ships sailing at break of day over
 Hellespont, the fishes' home, and my men right eager at the oar; and if
 the great Shaker of the Earth grant me good journey, on the third day
@@ -4229,18 +4229,18 @@ yet some other Danaan, for that he is ever clothed in shamelessness.
 Verily not in my face would he dare to look, though he have the front of
 a dog. Neither will I devise counsel with him nor any enterprise, for
 utterly he hath deceived me and done wickedly; but never again shall he
-beguile me with fair speech--let this suffice him. Let him begone in
+beguile me with fair speech let this suffice him. Let him begone in
 peace; Zeus the lord of counsel hath taken away his wits. Hateful to me
 are his gifts, and I hold him at a straw's worth. Not even if he gave me
 ten times, yea twenty, all that now is his, and all that may come to him
 otherwhence, even all the revenue of Orchomenos or Egyptian Thebes where
-the treasure-houses are stored fullest--Thebes of the hundred gates,
+the treasure-houses are stored fullest Thebes of the hundred gates,
 whence sally forth two hundred warriors through each with horses and
-chariots--nay, nor gifts in number as sand or dust; not even so shall
+chariots nay, nor gifts in number as sand or dust; not even so shall
 Agamemnon persuade my soul till he have paid me back all the bitter
 despite. And the daughter of Agamemnon son of Atreus will I not wed, not
 were she rival of golden Aphrodite for fairness and for handiwork
-matched bright-eyed Athene--not even then will I wed her; let him choose
+matched bright-eyed Athene not even then will I wed her; let him choose
 him of the Achaians another that is his peer and is more royal than I.
 For if the gods indeed preserve me and I come unto my home, then will
 Peleus himself seek me a wife. Many Achaian maidens are there throughout
@@ -4321,9 +4321,9 @@ said: "Heaven-sprung son of Laertes, Odysseus of many wiles, let us go
 hence; for methinks the purpose of our charge will not by this journey
 be accomplished; and we must tell the news, though it be no wise good,
 with all speed unto the Danaans, that now sit awaiting. But Achilles
-hath wrought his proud soul to fury within him--stubborn man, that
+hath wrought his proud soul to fury within him stubborn man, that
 recketh naught of his comrades' love, wherein we worshipped him beyond
-all men amid the ships--unmerciful! Yet doth a man accept recompense of
+all men amid the ships unmerciful! Yet doth a man accept recompense of
 his brother's murderer or for his dead son; and so the man-slayer for a
 great price abideth in his own land, and the kinsman's heart is
 appeased, and his proud soul, when he hath taken the recompense. But for
@@ -4790,7 +4790,7 @@ things will I recount to thee most truly. Hector with them that are
 counsellors holdeth council by the barrow of godlike Ilos, apart from
 the din, but as for the guards whereof thou askest, oh hero, no chosen
 watch nor guard keepeth the host. As for all the watch fires of the
-Trojans--on them is necessity, so that they watch and encourage each
+Trojans on them is necessity, so that they watch and encourage each
 other to keep guard; but, for the allies called from many lands, they
 are sleeping and to the Trojans they leave it to keep watch, for no wise
 near dwell the children and wives of the allies." Then Odysseus of the
@@ -5470,7 +5470,7 @@ wherefore it abode steadfast for no long time. While Hector yet lived,
 and yet Achilles kept his wrath, and unsacked was the city of Priam the
 king, so long the great wall of the Achaians likewise abode steadfast.
 But when all the bravest of the Trojans died, and many of the
-Argives,--some were taken, and some were left,--and the city of Priam
+Argives, some were taken, and some were left, and the city of Priam
 was sacked in the tenth year, and the Argives had gone back in their
 ships to their own dear country, then verily did Poseidon and Apollo
 take counsel to wash away the wall, bringing in the might of the rivers,
@@ -5539,7 +5539,7 @@ bravest, and most were eager to break the wall, and fight by the hollow
 ships; and with them followed Kebriones for the third, for Hector had
 left another man with his chariot, a weaker warrior than Kebriones. The
 second company Paris led, and Alkathoos, and Agenor: and the third
-company Helenos led, and godlike Deiphobos,--two sons of Priam,--the
+company Helenos led, and godlike Deiphobos, two sons of Priam, the
 third was the warrior Asios, Asios Hyrtakos' son, whom his tall sorrel
 steeds brought out of Arisbe, from the river Selleeis. And of the fourth
 company was the brave son of Anchises leader, even Aineias; and with
@@ -5731,7 +5731,7 @@ and seizeth it, or himself is smitten in the foremost place with a dart
 from a strong hand. So did his heart then urge on the godlike Sarpedon
 to rush against the wall, and break through the battlements. And
 instantly he spake to Glaukos, son of Hippolochos: "Glaukos, wherefore
-have we twain the chiefest honour,--seats of honour, and messes, and
+have we twain the chiefest honour, seats of honour, and messes, and
 full cups in Lykia, and all men look on us as gods? And wherefore hold
 we a great demesne by the banks of Xanthos, a fair demesne of orchard-land,
 and wheat-bearing tilth? Therefore now it behoveth us to take our
@@ -5742,9 +5742,9 @@ the choice wine honey-sweet: nay, but they are also of excellent might,
 for they war in the foremost ranks of the Lykians.' Ah, friend, if once
 escaped from this battle we were for ever to be ageless and immortal,
 neither would I fight myself in the foremost ranks, nor would I send
-thee into the war that giveth men renown, but now--for assuredly ten
+thee into the war that giveth men renown, but now for assuredly ten
 thousand fates of death do every way beset us, and these no mortal may
-escape nor avoid--now let us go forward, whether we shall give glory to
+escape nor avoid now let us go forward, whether we shall give glory to
 other men, or others to us."
 
 So spake he, and Glaukos turned not apart, nor disobeyed him, and they
@@ -5790,7 +5790,7 @@ brother by the same father, and with them Pandion bare the bended bow
 of Teukros.
 
 Now when they came to the tower of great-hearted Menestheus, passing
-within the wall,--and to men sore pressed they came,--the foe were
+within the wall, and to men sore pressed they came, the foe were
 climbing upon the battlements, like a dark whirlwind, even the strong
 leaders and counsellors of the Lykians; and they hurled together into
 the war and the battle-cry arose. Now first did Aias Telamon's son slay
@@ -5953,7 +5953,7 @@ instantly he spake to Aias, son of Telamon: "Aias, since it is one of
 the gods who hold Olympus, that in the semblance of a seer commands us
 now to fight beside the ships-not Kalchas is he, the prophet and
 sooth-sayer, for easily I knew the tokens of his feet and knees as he
-turned away, and the gods are easy to discern--lo, then mine own heart
+turned away, and the gods are easy to discern lo, then mine own heart
 within my breast is more eagerly set on war and battle, and my feet
 beneath and my hands above are lusting for the fight."
 
@@ -5995,7 +5995,7 @@ brave. No longer do ye well to refrain from impetuous might, all ye that
 are the best men of the host. I myself would not quarrel with one that,
 being a weakling, abstained from war, but with you I am heartily wroth.
 Ah, friends, soon shall ye make the mischief more through this
-remissness,--but let each man conceive shame in his heart, and
+remissness, but let each man conceive shame in his heart, and
 indignation, for verily great is the strife that hath arisen. Lo, the
 mighty Hector of the loud war-cry is fighting at the ships, and the
 gates and the long bar he hath burst in sunder."
@@ -6017,7 +6017,7 @@ winter-swollen water thrusteth from the crest of a hill, having broken
 the foundations of the stubborn rock with its wondrous flood; leaping
 aloft it flies, and the wood echoes under it, and unstayed it runs its
 course, till it reaches the level plain, and then it rolls no more for
-all its eagerness,--even so Hector for a while threatened lightly to
+all its eagerness, even so Hector for a while threatened lightly to
 win to the sea through the huts and the ships of the Achaians, slaying
 as he came, but when he encountered the serried battalions, he was
 stayed when he drew near against them. But they of the other part, the
@@ -6118,8 +6118,8 @@ his body, and grasped two spears, and set forth like the lightning that
 Kronion seizes in his hand and brandishes from radiant Olympus, showing
 forth a sign to mortal men, and far seen are the flames thereof. Even so
 shone the bronze about the breast of Idomeneus as he ran, and Meriones,
-his good squire, met him, while he was still near his hut,--he was going
-to bring his spear of bronze,--and mighty Idomeneus spake to him:
+his good squire, met him, while he was still near his hut, he was going
+to bring his spear of bronze, and mighty Idomeneus spake to him:
 "Meriones son of Molos, fleet of foot, dearest of my company, wherefore
 hast thou come hither and left the war and strife? Art thou wounded at
 all, and vexed by a dart's point, or dost thou come with a message for
@@ -6148,7 +6148,7 @@ sooner forget my prowess, but thou art he that knoweth it."
 Then Idomeneus, leader of the Cretans, answered him again: "I know what
 a man of valour thou art, wherefore shouldst thou tell me thereof? Nay,
 if now beside the ships all the best of us were being chosen for an
-ambush--wherein the valour of men is best discerned; there the coward,
+ambush wherein the valour of men is best discerned; there the coward,
 and the brave man most plainly declare themselves: for the colour of the
 coward changes often, and his spirit cannot abide firm within him, but
 now he kneels on one knee, now on the other, and rests on either foot,
@@ -6688,8 +6688,8 @@ high-hearted Trojans driving them, and the wall of the Achaians was
 overthrown. And as when the great sea is troubled with a dumb wave, and
 dimly bodes the sudden paths of the shrill winds, but is still unmoved
 nor yet rolled forward or to either side, until some steady gale comes
-down from Zeus, even so the old man pondered,--his mind divided this
-way and that,--whether he should fare into the press of the Danaans of
+down from Zeus, even so the old man pondered, his mind divided this
+way and that, whether he should fare into the press of the Danaans of
 the swift steeds, or go after Agamemnon, son of Atreus, shepherd of the
 host. And thus as he pondered, it seemed to him the better counsel to go
 to the son of Atreus. Meanwhile they were warring and slaying each
@@ -6733,7 +6733,7 @@ Then Agamemnon king of men answered him again: "Nestor, for that they
 are warring by the rearmost ships, and the well-builded wall hath
 availed not, nor the trench, whereat the Achaians endured so much
 labour, hoping in their hearts that it should be the unbroken bulwark of
-the ships, and of their own bodies--such it seemeth must be the will
+the ships, and of their own bodies such it seemeth must be the will
 of Zeus supreme, [that the Achaians should perish here nameless far from
 Argos]. For I knew it when he was forward to aid the Danaans, and now I
 know that he is giving to the Trojans glory like that of the blessed
@@ -6770,11 +6770,11 @@ Then the king of men, Agamemnon, answered him: "Odysseus, right sharply
 hast thou touched my heart with thy stern reproof: nay, I do not bid the
 sons of the Achaians to drag, against their will, the well-timbered
 ships to the salt sea. Now perchance there may be one who will utter a
-wiser counsel than this of mine,--a young man or an old,--welcome
+wiser counsel than this of mine, a young man or an old, welcome
 would it be to me."
 
 Then Diomedes of the loud war-cry spake also among them: "The man is
-near,--not long shall we seek him, if ye be willing to be persuaded of
+near, not long shall we seek him, if ye be willing to be persuaded of
 me, and each of you be not resentful at all, because in years I am the
 youngest among you. Nay, but I too boast me to come by lineage of a
 noble sire, Tydeus, whom in Thebes the piled-up earth doth cover. For
@@ -6893,7 +6893,7 @@ feet, for thee to set thy shining feet upon, when thou art at a
 festival. Nay come, and I will give thee one of the younger of the
 Graces, to wed and to be called thy wife."
 
-So she spake, and Sleep was glad, and answered and said:--"Come now,
+So she spake, and Sleep was glad, and answered and said: "Come now,
 swear to me by the inviolable water of Styx, and with one of thy hands
 grasp the bounteous earth, and with the other the shining sea, that all
 may be witnesses to us, even all the gods below that are with Kronos,
@@ -7283,15 +7283,15 @@ some from off the shoulders of warring men, and the black earth ran with
 blood. But Hector, after that once he had seized the ship's stern, left
 not his hold, keeping the ensign in his hands, and he called to the
 Trojans: "Bring fire, and all with one voice do ye raise the war-cry;
-now hath Zeus given us the dearest day of all,--to take the ships that
+now hath Zeus given us the dearest day of all, to take the ships that
 came hither against the will of the gods, and brought many woes upon us,
 by the cowardice of the elders, who withheld me when I was eager to
 fight at the sterns of the ships, and kept back the host. But if even
 then far-seeing Zeus did harm our wits, now he himself doth urge and
 command us onwards." So spake he, and they set yet the fiercer on the
 Argives. And Aias no longer abode their onset, for he was driven back by
-the darts, but he withdrew a little,--thinking that now he should
-die,--on to the oarsman's bench of seven feet long, and he left the
+the darts, but he withdrew a little, thinking that now he should
+die, on to the oarsman's bench of seven feet long, and he left the
 decks of the trim ship. There then he stood on the watch, and with his
 spear he ever drave the Trojans from the ships, whosoever brought
 unwearied fire, and ever he shouted terribly, calling to the Danaans: "O
@@ -7327,7 +7327,7 @@ and hinders her in her going, and tearfully looks at her, till the
 mother takes her up? like her, Patroklos, dost thou let fall soft tears.
 Hast thou aught to tell to the Myrmidons, or to me myself, or is it some
 tidings out of Phthia that thou alone hast beard? Or dost thou lament
-for the sake of the Argives,--how they perish by the hollow ships
+for the sake of the Argives, how they perish by the hollow ships
 through their own transgression? Speak out, and hide it not within thy
 spirit, that we may both know all."
 
@@ -7491,7 +7491,7 @@ perforce gave ground from the ships. But even as robber wolves fall on
 the lambs or kids, choosing them out of the herds, when they are
 scattered on hills by the witlessness of the shepherd, and the wolves
 behold it, and speedily harry the younglings that have no heart of
-courage,--even so the Danaans fell on the Trojans, and they were mindful
+courage, even so the Danaans fell on the Trojans, and they were mindful
 of ill-sounding flight, and forgot their impetuous valour.
 
 But that great Aias ever was fain to cast his spear at Hector of the
@@ -8000,9 +8000,9 @@ war-god entered into him, and his limbs were filled within with valour
 and strength. Then he sped among the noble allies with a mighty cry, and
 in the flashing of his armour he seemed to all of them like unto Peleus'
 great-hearted son. And he came to each and encouraged him with his
-words--Mesthles and Glaukos and Medon and Thersilochos and Asteropaios
+words Mesthles and Glaukos and Medon and Thersilochos and Asteropaios
 and Deisenor and Hippothoos and Phorkys and Chromios and the augur
-Ennomos--these encouraged he and spake to them winged words: "Listen, ye
+Ennomos these encouraged he and spake to them winged words: "Listen, ye
 countless tribes of allies that dwell round about. It was not for mere
 numbers that I sought or longed when I gathered each of you from your
 cities, but that ye might zealously guard the Trojans' wives and infant
@@ -8031,7 +8031,7 @@ shouted unto the Danaans, crying a far-heard cry: "O friends, ye leaders
 and counsellors of the Argives, who by the side of the sons of Atreus,
 Agamemnon and Menelaos, drink at the common cost and are all commanders
 of the host, on whom wait glory and honour from Zeus, hard is it for me
-to distinguish each chief amid the press--such blaze is there of the
+to distinguish each chief amid the press such blaze is there of the
 strife of war. But let each go forward of himself and be wroth at heart
 that Patroklos should become a sport among the dogs of Troy."
 
@@ -8106,7 +8106,7 @@ around the brave squire of fleet Aiakides. And as when a man giveth the
 hide of a great bull to his folk to stretch, all soaked in fat, and they
 take and stretch it standing in a circle, and straightway the moisture
 thereof departeth and the fat entereth in under the haling of many
-hands, and it is all stretched throughout,--thus they on both sides
+hands, and it is all stretched throughout, thus they on both sides
 haled the dead man this way and that in narrow space, for their hearts
 were high of hope, the Trojans that they should drag him to Ilios and
 the Achaians to the hollow ships; and around him the fray waxed wild,
@@ -8195,7 +8195,7 @@ Thus spake he, and the brave son of Anchises disregarded him not. And
 they twain went right onward, their shoulders shielded by ox-hides dried
 and tough, and bronze thick overlaid. And with them went both Chromios
 and godlike Aretos, and their hearts were of high hope to slay the men
-and drive off the strong-necked horses--fond hope, for not without blood
+and drive off the strong-necked horses fond hope, for not without blood
 lost were they to get them back from Automedon. He praying to father
 Zeus was filled in his inmost heart with valour and strength. And
 straightway he spake to Alkimedon, his faithful comrade: "Alkimedon,
@@ -8265,7 +8265,7 @@ of thy comrades, if haply they might behold Nestor's son yet alive. Him
 quickly he perceived at the left of the whole battle, heartening his
 comrades and rousing them to fight. And fair-haired Menelaos came and
 stood nigh and said unto him: "Antilochos, fosterling of Zeus, come
-hither that thou mayest learn woful tidings--would it had never been.
+hither that thou mayest learn woful tidings would it had never been.
 Ere now, I ween, thou too hast known by thy beholding that God rolleth
 mischief upon the Danaans, and with the Trojans is victory. And slain is
 the best man of the Achaians, Patroklos, and great sorrow is wrought for
@@ -8328,7 +8328,7 @@ ships and flying in rout over the plain? May the gods not have wrought
 against me the grievous fears at my heart, even as my mother revealed
 and told me that while I am yet alive the best man of the Myrmidons must
 by deed of the men of Troy forsake the light of the sun. Surely now must
-Menoitios' valiant son be dead--foolhardy! surely I bade him when he
+Menoitios' valiant son be dead foolhardy! surely I bade him when he
 should have beaten off the fire of the foe to come back to the ships nor
 with Hector fight amain."
 
@@ -8403,7 +8403,7 @@ therefore, since I go not back to my dear native land, neither have at
 all been succour to Patroklos nor to all my other comrades that have
 been slain by noble Hector, but I sit beside my ships a profitless
 burden of the earth, I that in war am such an one as is none else of the
-mail-clad Achaians, though in council are others better--may strife
+mail-clad Achaians, though in council are others better may strife
 perish utterly among gods and men, and wrath that stirreth even a wise
 man to be vexed, wrath that far sweeter than trickling honey waxeth like
 smoke in the breasts of men, even as I was wroth even now against
@@ -8496,10 +8496,10 @@ and around his head the bright goddess set a crown of a golden cloud,
 and kindled therefrom a blazing flame. And as when a smoke issueth from
 a city and riseth up into the upper air, from an island afar off that
 foes beleaguer, while the others from their city fight all day in
-hateful war,--but with the going down of the sun blaze out the
+hateful war, but with the going down of the sun blaze out the
 beacon-fires in line, and high aloft rusheth up the glare for dwellers
 round about to behold, if haply they may come with ships to help in
-need--thus from the head of Achilles soared that blaze toward the
+need thus from the head of Achilles soared that blaze toward the
 heavens. And he went and stood beyond the wall beside the trench, yet
 mingled not among the Achaians, for he minded the wise bidding of his
 mother. There stood he and shouted aloud, and afar off Pallas Athene
@@ -8532,7 +8532,7 @@ the breast of his comrade his man-slaying hands and moaning very sore,
 even as a deep-bearded lion whose whelps some stag-hunter hath snatched
 away out of a deep wood; and the lion coming afterward grieveth and
 through many glens he rangeth on the track of the footsteps of the man,
-if anywhere he might find him, for most bitter anger seizeth him;--thus
+if anywhere he might find him, for most bitter anger seizeth him; thus
 Achilles moaning heavily spake among the Myrmidons: "Ay me, vain verily
 was the word I uttered on that day when I cheered the hero Menoitios in
 his halls and said that I would bring back to Opoeis his son in glory
@@ -8571,7 +8571,7 @@ Kronos, what is this word thou hast said? Truly even a man, I ween, is
 to accomplish what he may for another man, albeit he is mortal and hath
 not wisdom as we. How then was I who avow me the first of goddesses both
 by birth and for that I am called thy wife, and thou art king among all
-Immortals--how was I not in mine anger to devise evil against the men of
+Immortals how was I not in mine anger to devise evil against the men of
 Troy?"
 
 So debated they on this wise with one another. But Thetis of the silver
@@ -8796,8 +8796,8 @@ spake he winged words: "My mother, the arms the god has given are such
 as it beseemeth that the work of Immortals should be, and that no mortal
 man should have wrought. Now therefore will I arm me in them, but I have
 grievous fear lest meantime on the gashed wounds of Menoitios' valiant
-son flies light and breed worms therein, and defile his corpse--for the
-life is slain out of him--and so all his flesh shall rot."
+son flies light and breed worms therein, and defile his corpse for the
+life is slain out of him and so all his flesh shall rot."
 
 Then answered him Thetis, goddess of the silver feet: "Child, have no
 care for this within thy mind. I will see to ward from him the cruel
@@ -8948,8 +8948,8 @@ And to him in answer swift-footed Achilles spake: "Most noble son of
 Atreus, Agamemnon king of men, at some other time were it even better ye
 should be busied thus, when haply there shall be some pause of war, and
 the spirit within my breast shall be less fierce. But now they lie
-mangled on the field--even they whom Hector son of Priam slew, when Zeus
-gave him glory--and ye call men to their food. Verily for my part I
+mangled on the field even they whom Hector son of Priam slew, when Zeus
+gave him glory and ye call men to their food. Verily for my part I
 would bid the sons of the Achaians to fight now unfed and fasting, and
 with the setting sun make ready a mighty meal, when we shall have
 avenged the shame. Till then down my throat at least nor food nor drink
@@ -9058,7 +9058,7 @@ at least is godlike Neoptolemos alive). For hitherto had my soul within
 me trusted that I alone should perish far from horse-pasturing Argos,
 here in the Trojan land, but that thou shouldest return to Phthia, so
 that thou mightest take me the child in thy swift black ship from Skyros
-and show him everything--my substance and servants, and high-roofed
+and show him everything my substance and servants, and high-roofed
 mighty hall. For Peleus I ween already must be dead and gone, or else in
 feeble life he hath sorrow of age, and of waiting ever for bitter news
 of me, till he hear that I am dead."
@@ -9094,8 +9094,8 @@ round his shoulders he slung the bronze sword silver-studded; then
 lastly he took the great and strong shield, and its brightness shone
 afar off as the moon's. Or as when over the sea there appeareth to
 sailors the brightness of a burning fire, and it burneth on high among
-the mountains in some lonely steading--sailors whom storm-blasts bear
-unwilling over the sea, the home of fishes, afar from them they love:--
+the mountains in some lonely steading sailors whom storm-blasts bear
+unwilling over the sea, the home of fishes, afar from them they love: 
 so from Achilles' goodly well-dight shield the brightness thereof shot
 up toward heaven. And he lifted the stout helmet and set it on his head,
 and like a star it shone, the horse-hair crested helmet, and around it
@@ -9119,8 +9119,8 @@ charioteer safe back to the Danaan host, when we have done with battle,
 and leave him not as ye left Patroklos to lie there dead."
 
 Then the horse Xanthos of glancing feet made answer unto him from
-beneath the yoke;--and he bowed with his head, and all his mane fell
-from the yoke-cushion beside the yoke and touched the ground;--for the
+beneath the yoke; and he bowed with his head, and all his mane fell
+from the yoke-cushion beside the yoke and touched the ground; for the
 white-armed goddess Hera gave him speech: "Yea verily for this hour,
 dread Achilles, we will still bear thee safe, yet is thy death day nigh
 at hand, neither shall we be cause thereof, but a mighty god, and
@@ -9209,7 +9209,7 @@ Ida, and all her crests, and the city of the Trojans, and the ships of
 the Achaians. And the Lord of the Underworld, Aiedoneus, had terror in
 hell, and leapt from his throne in that terror and cried aloud, lest the
 world be cloven above him by Poseidon, Shaker of earth, and his
-dwelling-place be laid bare to mortals and immortals--grim halls, and
+dwelling-place be laid bare to mortals and immortals grim halls, and
 vast, and lothly to the gods. So loud the roar rose of that battle of
 gods. For against King Poseidon stood Phoebus Apollo with his winged
 arrows, and against Enyalios stood Athene, bright-eyed goddess, and
@@ -9264,7 +9264,7 @@ he fail not in his spirit, but know that they who love him are the best
 of the Immortals, and that they who from of old ward war and fighting
 from the Trojans are vain as wind. All we from Olympus are come down to
 mingle in this fight that he take no hurt among the Trojans on this
-day--afterward he shall suffer whatsoever things Fate span for him with
+day afterward he shall suffer whatsoever things Fate span for him with
 her thread, at his beginning, when his mother bare him. If Achilles
 learn not this from voice divine, then shall he be afraid when some god
 shall come against him in the battle; for gods revealed are hard to look
@@ -9319,14 +9319,14 @@ land of tilth and orchard, that thou mayest dwell therein, if thou slay
 me? But methinks thou wilt find the slaying hard; for once before, I
 ween, have I made thee flee before my spear. Host thou forgotten the day
 when thou wert alone with the kine, and I made thee run swift-footed
-down Ida's steeps in haste?--then didst thou not look behind thee in thy
+down Ida's steeps in haste? then didst thou not look behind thee in thy
 flight. Thence fleddest thou to Lernessos, but I wasted it, having
 fought against it with the help of Athene and of father Zeus, and
 carried away women captive, bereaving them of their day of freedom: only
 thee Zeus shielded, and other gods. But not this time, methinks, shall
 they shield thee, as thou imaginest in thy heart: therefore I bid thee
 go back into the throng and come not forth against me, while as yet thou
-art unhurt--after the event even a fool is wise."
+art unhurt after the event even a fool is wise."
 
 Then to him in answer again Aineias spake: "Son of Peleus, think not
 with words to affright me as a child, since I too well know myself how
@@ -9363,7 +9363,7 @@ Anchises me; but Priam begat the goodly Hector.
 valour, Zeus increaseth it in men or minisheth it according as he will,
 for he is lord of all. But come, let us talk thus together no longer
 like children, standing in mid onset of war. For there are revilings in
-plenty for both of us to utter--a hundred-thwarted ship would not
+plenty for both of us to utter a hundred-thwarted ship would not
 suffice for the load of them. Glib is the tongue of man, and many words
 are therein of every kind, and wide is the range of his speech hither
 and thither. Whatsoever word thou speak, such wilt thou hear in answer.
@@ -9376,7 +9376,7 @@ He said, and against that other's dread and mighty shield hurled his
 great spear, and the shield rang loud beneath the spear-point. And the
 son of Peleus held away the shield from him with his stout hand, in
 fear, for he thought that the far-shadowing spear of Aineias great of
-heart would lightly pierce it through--fond man, and knew not in his
+heart would lightly pierce it through fond man, and knew not in his
 mind and heart that not lightly do the glorious gifts of gods yield to
 force of mortal men. So did not the great spear of wise Aineias pierce
 that shield, for the gold resisted it, even the gift of the god. Yet
@@ -9554,10 +9554,10 @@ with a stroke upon his knees; then smote him with his mighty sword and
 reft him of life. Then springing on Laogonos and Dardanos, sons of Bias,
 he thrust both from their chariot to the ground, one with a spear-cast
 smiting and the other in close battle with his sword. Then Tros,
-Alastor's son--he came and clasped his knees to pray him to spare him,
+Alastor's son he came and clasped his knees to pray him to spare him,
 and let him live, and slay him not, having compassion on his like
 age, fond fool, and knew not that he might not gain his prayers; for
-nowise soft of heart or tender was that man, but of fierce mood--with
+nowise soft of heart or tender was that man, but of fierce mood with
 his hands he touched Achilles' knees, eager to entreat him, but he smote
 him in the liver with his sword, and his liver fell from him, and black
 blood therefrom filled his bosom, and he swooned, and darkness covered
@@ -9601,8 +9601,8 @@ But when now they came unto the ford of the fair-flowing river, even
 eddying Xanthos, whom immortal Zeus begat, there sundering them he
 chased the one part to the plain toward the city, even where the
 Achaians were flying in affright the day before, when glorious Hector
-was in his fury--thither poured some in flight, and Hera spread before
-them thick mist to hinder them:--but half were pent into the
+was in his fury thither poured some in flight, and Hera spread before
+them thick mist to hinder them: but half were pent into the
 deep-flowing silver eddied river, and fell therein with a mighty noise,
 and the steep channel sounded, and the banks around rang loudly; for
 with shouting they swam therein hither and thither whirled round the
@@ -9670,7 +9670,7 @@ oxen. And now have I been ransomed for thrice that, and this is my
 twelfth morn since I came to Ilios after much pain. Now once again hath
 ruinous fate delivered me unto thy hands; surely I must be hated of
 father Zeus, that he hath given me a second time unto thee; and to short
-life my mother bare me, Laothoe, old Altes' daughter--Altes who ruleth
+life my mother bare me, Laothoe, old Altes' daughter Altes who ruleth
 among the war-loving Leleges, holding steep Pedasos on the Satnioeis.
 His daughter Priam had to wife, with many others, and of her were we two
 born, and thou wilt butcher both. Him among the foremost of the
@@ -9686,7 +9686,7 @@ he heard a voice implacable: "Fond fool, proffer me no ransom, nor these
 words. Until Patroklos met his fated day, then was it welcomer to my
 soul to spare the men of Troy, and many I took alive and sold beyond the
 sea: but now there is none shall escape death, whomsoever before Ilios
-God shall deliver into my hands--yes, even among all Trojans, but
+God shall deliver into my hands yes, even among all Trojans, but
 chiefest among Priam's sons. Ay, friend, thou too must die: why
 lamentest thou? Patroklos is dead, who was better far than thou. Seest
 thou not also what manner of man am I for might and goodliness? and a
@@ -9819,7 +9819,7 @@ River rushed on with a mighty roar. As when a field-waterer from a dark
 spring leadeth water along a bed through crops and garden grounds, a
 mattock in his hands, casting forth hindrances from the ditch, and as it
 floweth all pebbles are swept down, and swiftly gliding it murmureth
-down a sloping place, and outrunneth him that is its guide:--thus ever
+down a sloping place, and outrunneth him that is its guide: thus ever
 the river wave caught up Achilles for all his speed; for gods are
 mightier than men. For whensoever fleet-footed noble Achilles struggled
 to stand against it, and know whether all immortals be upon him who
@@ -9852,7 +9852,7 @@ life of Hector, go back unto the ships; this glory we give unto thee to
 win."
 
 They having thus spoken departed to the immortals, but he toward the
-plain--for the bidding of gods was strong upon him--went onward; and all
+plain for the bidding of gods was strong upon him went onward; and all
 the plain was filled with water-flood, and many beautiful arms and
 corpses of slain youths were drifting there. So upward sprang his knees
 as he rushed against the stream right on, nor stayed him the
@@ -9886,7 +9886,7 @@ storm out of the sea of the west wind and the white south which shall
 utterly consume the dead Trojans and their armour, blowing the angry
 flame. Thou along Xanthos' banks burn up his trees and wrap himself in
 fire, nor let him anywise turn thee back by soft words or by threat, nor
-stay thy rage--only when I cry to thee with my voice, then hold the
+stay thy rage only when I cry to thee with my voice, then hold the
 unwearying fire."
 
 Thus spake she, and Hephaistos made ready fierce-blazing fire. First on
@@ -9908,7 +9908,7 @@ their city; what have I to do with strife and succour?"
 Thus spake he, burnt with fire, for his fair streams were bubbling. And
 as a cauldron boileth within, beset with much fire, melting the lard of
 some fatted hog spurting up on all sides, and logs of firewood lie
-thereunder,--so burned his fair streams in the fire, and the water
+thereunder, so burned his fair streams in the fire, and the water
 boiled. He had no mind to flow, but refrained him, for the breath of
 cunning Hephaistos violently afflicted him. Then unto Hera, earnestly
 beseeching her,' he spake winged words: "Hera, wherefore hath thy son
@@ -9942,7 +9942,7 @@ pierce through my fair skin? Therefore deem I now that thou shalt pay me
 for all that thou hast done."
 
 Thus saying he smote on the dread tasselled aegis that not even the
-lightning of Zeus can overcome--thereon smote bloodstained Ares with his
+lightning of Zeus can overcome thereon smote bloodstained Ares with his
 long spear. But she, giving back, grasped with stout hand a stone that
 lay upon the plain, black, rugged, huge, which men of old time set to be
 the landmark of a field; this hurled she, and smote impetuous Ares on
@@ -9960,7 +9960,7 @@ for scarce gathered he his spirit back to him. But when the white-armed
 goddess Hera was aware of them, straightway she spake unto Athene winged
 words: "Out on it, child of aegis-bearing Zeus, maiden invincible, lo
 there the dogfly is leading Ares destroyer of men out of the fray of
-battle down the throng--nay then, pursue her."
+battle down the throng nay then, pursue her."
 
 She said, and Athene sped after her with heart exultant, and made at her
 and smote her with stout hand upon the breast, and straightway her knees
@@ -10023,7 +10023,7 @@ wrist, and with her right took the bow from off her shoulders, and
 therewith, smiling, beat her on the ears as she turned this way and
 that; and the swift arrows fell out of her quiver. And weeping from
 before her the goddess fled like a dove that from before a falcon flieth
-to a hollow rock, a cleft--for she was not fated to be caught;--thus
+to a hollow rock, a cleft for she was not fated to be caught; thus
 Artemis fled weeping, and left her bow and arrows where they lay. Then
 to Leto spake the Guide, the slayer of Argus: "Leto, with thee will I no
 wise fight; a grievous thing it is to come to blows with wives of
@@ -10058,7 +10058,7 @@ of dread Achilles, how before him the Trojans thronged in rout, nor was
 any succour found of them. Then with a cry he went down from the tower,
 to rouse the gallant warders along the walls: "Hold open the gates in
 your hands until the folk come to the city in their rout, for closely is
-Achilles chasing them--now trow I there will be deadly deeds. And when
+Achilles chasing them now trow I there will be deadly deeds. And when
 they are gathered within the wall and are taking breath, then again shut
 back the gate-wings firmly builded; for I fear lest that murderous man
 spring in within the wall."
@@ -10169,8 +10169,8 @@ piteously unto him, stretching forth his hands: "Hector, beloved son, I
 pray thee await not this man alone with none beside thee, lest thou
 quickly meet thy doom, slain by the son of Peleus, since he is mightier
 far, a merciless man. Would the gods loved him even as do I! then
-quickly would dogs and vultures devour him on the field--thereby would
-cruel pain go from my heart--the man who hath bereft me of many valiant
+quickly would dogs and vultures devour him on the field thereby would
+cruel pain go from my heart the man who hath bereft me of many valiant
 sons, slaying them and selling them captive into far-off isles. Ay even
 now twain of my children, Lykaon and Polydoros, I cannot see among the
 Trojans that throng into the fastness, sons whom Laothoe bare me, a
@@ -10190,7 +10190,7 @@ chambers laid waste and infant children hurled to the ground in terrible
 war, and his sons' wives dragged away by the ruinous hands of the
 Achaians. Myself then last of all at the street door will ravening dogs
 tear, when some one by stroke or throw of the sharp bronze hath bereft
-my limbs of life--even the dogs I reared in my halls about my table and
+my limbs of life even the dogs I reared in my halls about my table and
 to guard my door, which then having drunk my blood, maddened at heart
 shall lie in the gateway. A young man all beseemeth, even to be slain in
 war, to be torn by the sharp bronze and lie on the field; though he be
@@ -10301,7 +10301,7 @@ Dardanian gates, if haply from above they might succour him with darts,
 so oft would Achilles gain on him and turn him toward the plain, while
 himself he sped ever on the city-side. And as in a dream one faileth in
 chase of a flying man, the one faileth in his flight and the other in
-his chase--so failed Achilles to overtake him in the race, and Hector to
+his chase so failed Achilles to overtake him in the race, and Hector to
 escape. And thus would Hector have avoided the visitation of death, had
 not this time been utterly the last wherein Apollo came nigh to him, who
 nerved his strength and his swift knees. For to the host did noble
@@ -10496,11 +10496,11 @@ friends, and though you love me leave me to get me forth of the city
 alone and go unto the ships of the Achaians. Let me pray this accursed
 horror-working man, if haply he may feel shame before his age-fellows
 and pity an old man. He also hath a father such as I am, Peleus, who
-begat and reared him to be a bane of Trojans--and most of all to me hath
-he brought woe. So many sons of mine hath he slain in their flower--yet
+begat and reared him to be a bane of Trojans and most of all to me hath
+he brought woe. So many sons of mine hath he slain in their flower yet
 for all my sorrow for the rest I mourn them all less than this one
 alone, for whom my sharp grief will bring me down to the house of
-Hades--even Hector. Would that he had died in my arms; then would we
+Hades even Hector. Would that he had died in my arms; then would we
 have wept and wailed our fill, his mother who bore him to her ill hap,
 and I myself."
 
@@ -10509,7 +10509,7 @@ And among the women of Troy, Hekabe led the wild lament: "My child, ah,
 woe is me! wherefore should I live in my pain, now thou art dead, who
 night and day wert my boast through the city, and blessing to all, both
 men and women of Troy throughout the town, who hailed thee as a god, for
-verily an exceeding glory to them wert thou in thy life:--now death and
+verily an exceeding glory to them wert thou in thy life: now death and
 fate have overtaken thee."
 
 Thus spake she wailing. But Hector's wife knew not as yet, for no true
@@ -10536,7 +10536,7 @@ his hardihood."
 Thus saying she sped through the chamber like one mad, with beating
 heart, and with her went her handmaidens. But when she came to the
 battlements and the throng of men, she stood still upon the wall and
-gazed, and beheld him dragged before the city:--swift horses dragged him
+gazed, and beheld him dragged before the city: swift horses dragged him
 recklessly toward the hollow ships of the Achaians. Then dark night came
 on her eyes and shrouded her, and she fell backward and gasped forth her
 spirit. From off her head she shook the bright attiring thereof,
@@ -10549,11 +10549,11 @@ came to herself and her soul returned into her breast, then wailing with
 deep sobs she spake among the women of Troy: "O Hector, woe is me! to
 one fate then were we both born, thou in Troy in the house of Priam, and
 I in Thebe under woody Plakos, in the house of Eetion, who reared me
-from a little one--ill-fated sire of cruel-fated child. Ah, would he
+from a little one ill-fated sire of cruel-fated child. Ah, would he
 have begotten me not. Now thou to the house of Hades beneath the secret
 places of the earth departest, and me in bitter mourning thou leavest a
-widow in thy halls: and thy son is but an infant child--son of unhappy
-parents, thee and me--nor shalt thou profit him, Hector, since thou art
+widow in thy halls: and thy son is but an infant child son of unhappy
+parents, thee and me nor shalt thou profit him, Hector, since thou art
 dead, neither he thee. For even if he escape the Achaians' woful war,
 yet shall labour and sorrow cleave unto him hereafter, for other men
 shall seize his lands. The day of orphanage sundereth a child from his
@@ -10568,13 +10568,13 @@ return, even Astyanax, who erst upon his father's knee ate only marrow
 and fat flesh of sheep; and when sleep fell on him and he ceased from
 childish play, then in bed in his nurse's arms he would slumber softly
 nested, having satisfied his heart with good things; but now that he
-hath lost his father he will suffer many ills, Astyanax--that name the
+hath lost his father he will suffer many ills, Astyanax that name the
 Trojans gave him, because thou only wet the defence of their gates and
 their long walls. But now by the beaked ships, far from thy parents,
 shall coiling worms devour thee when the dogs have had their fill, as
 thou liest naked; yet in these halls lieth raiment of thine, delicate
 and fair, wrought by the hands of women. But verily all these will I
-consume with burning fire--to thee no profit, since thou wilt never lie
+consume with burning fire to thee no profit, since thou wilt never lie
 therein, yet that his be honour to thee from the men and the women of
 Troy."
 
@@ -10724,8 +10724,8 @@ hero Patroklos I may give this hair to take away."
 Thus saying he set the hair in the hands of his dear comrade, and
 stirred in all of them yearning to make lament. And so would the light
 of the sun have gone down on their lamentation, had not Achilles said
-quickly to Agamemnon as he stood beside him: "Son of Atreus--for to thy
-words most will the host of the Achaians have regard--of lamentation
+quickly to Agamemnon as he stood beside him: "Son of Atreus for to thy
+words most will the host of the Achaians have regard of lamentation
 they may sate them to the full. But now disperse them from the burning
 and bid them make ready their meal, and we to whom the dead is dearest
 will take pains for these things; yet let the chiefs tarry nigh unto
@@ -10743,7 +10743,7 @@ oil, leaning them against the bier; and four strong-necked horses he
 threw swiftly on the pyre, and groaned aloud. Nine house-dogs had the
 dead chief: of them did Achilles slay twain and throw them on the pyre.
 And twelve valiant sons of great-hearted Trojans he slew with the
-sword--for he devised mischief in his heart and he set to the merciless
+sword for he devised mischief in his heart and he set to the merciless
 might of the fire, to feed thereon. Then moaned he aloud, and called on
 his dear comrade by his name: "All hail to thee, O Patroklos, even in
 the house of Hades, for all that I promised thee before am I now
@@ -10803,7 +10803,7 @@ the bones of Patroklos, Menoitios' son, singling them well, and easy are
 they to discern, for he lay in the middle of the pyre, while the rest
 apart at the edge burnt-confusedly, horses and men. And his bones let us
 put within a golden urn, and double-folded fat, until that I myself be
-hidden in Hades. But no huge barrow I bid you toil to raise--a seemly
+hidden in Hades. But no huge barrow I bid you toil to raise a seemly
 one, no more: then afterward do ye Achaians build it broad and high,
 whosoever of you after I am gone may be left in the benched ships."
 
@@ -10851,7 +10851,7 @@ son, fair-haired heaven-sprung Menelaos, and yoked him a swift pair
 Aithe, Agamemnon's mare, and his own horse Podargos. Her unto Agamemnon
 did Anchises' son Echepolos give in fee, that he might escape from
 following him to windy Ilios and take his pleasure at home; for great
-wealth had Zeus given him, and he dwelt in Sikyon of spacious lawns:--
+wealth had Zeus given him, and he dwelt in Sikyon of spacious lawns: 
 so Menelaos yoked her, and she longed exceedingly for the race. And
 fourth, Antilochos made ready his fair-maned horses, even the noble son
 of Nestor, high-hearted king, who was the son of Neleus; and fleet
@@ -10883,7 +10883,7 @@ Achilles. Wherefore do thou drive close and bear thy horses and chariot
 hard thereon, and lean thy body on the well-knit car slightly to their
 left, and call upon the off-horse with voice and lash, and give him rein
 from thy hand. But let the near horse hug the post so that the nave of
-the well-wrought wheel seem to graze it--yet beware of touching the
+the well-wrought wheel seem to graze it yet beware of touching the
 stone, lest thou wound the horses and break the chariot; so would that
 be triumph to the rest and reproach unto thyself. But, dear son, be wise
 and on thy guard; for if at the turning-post thou drive past the rest,
@@ -10945,7 +10945,7 @@ wise Tydeides, unto which Athene hath now given speed, and shed glory on
 their charioteer. But overtake Atreides' horses with all haste, and be
 not outstripped by them, lest Aithe that is but a mare pour scorn on
 you. Why are ye outstripped, brave steeds? Thus will I tell you, and
-verily it shall be brought to pass--ye will find no tendance with Nestor
+verily it shall be brought to pass ye will find no tendance with Nestor
 shepherd of hosts, but straightway he will slay you with the edge of the
 sword if through heedlessness we win but the worse prize. Have after
 them at your utmost speed, and I for my part will devise a plan to pass
@@ -10959,7 +10959,7 @@ hollowed all the place; there drave Menelaos, shunning the encounter of
 the wheels. But Antilochos turned his whole-hooved horses out of the
 track, and followed him a little at one side. And the son of Atreus took
 alarm and shouted to Antilochos: "Antilochos, thou art driving
-recklessly--hold in thy horses! The road is straitened, soon thou mayest
+recklessly hold in thy horses! The road is straitened, soon thou mayest
 pass me in a wider place, lest thou foul my chariot and undo us both."
 
 Thus spake he, but Antilochos drave even fiercelier than before, plying
@@ -11042,9 +11042,9 @@ the yoke.
 And next after him drave Neleian Antilochos his horses, by craft, not
 swiftness, having passed by Menelaos; yet even now Menelaos held his
 swift steeds hard anigh. As far as a horse is from the wheel, which
-draweth his master, straining with the car over the plain--his hindmost
+draweth his master, straining with the car over the plain his hindmost
 tail-hairs touch the tire, for the wheel runneth hard anigh nor is much
-space between, as he speedeth far over the plain--by so much was
+space between, as he speedeth far over the plain by so much was
 Menelaos behind high-born Antilochos, howbeit at first he was a whole
 disk-cast behind, but quickly he was catching Antilochos up, for the
 high mettle of Agamemnon's mare, sleek-coated Aithe, was rising in her.
@@ -11149,13 +11149,13 @@ who stood up against me, and in the foot-race I outran Iphiklos, a right
 good man, and with the spear outthrew Phyleus and Polydoros; only in the
 chariot-race the two sons of Aktor beat me [by crowding their horses in
 front of me, jealous for victory, because the chief prizes were left at
-home.] Now they were twins--one ever held the reins, the reins he ever
+home.] Now they were twins one ever held the reins, the reins he ever
 held, the other called on the horses with the lash. Thus was I once, but
 now let younger men join in such feats; I must bend to grievous age, but
 then was I of mark among heroes. But come hold funeral for thy comrade
 too with with games. This gift do I accept with gladness, and my heart
-rejoiceth that thou rememberest ever my friendship to thee--(nor forget
-I thee)--and the honour wherewith it is meet that I be honoured among
+rejoiceth that thou rememberest ever my friendship to thee (nor forget
+I thee) and the honour wherewith it is meet that I be honoured among
 the Achaians. And may the gods for this grant thee due grace."
 
 Thus spake he, and Peleides was gone down the full concourse of
@@ -11258,7 +11258,7 @@ side, and Achilles showed to them the goal. Right eager was the running
 from the start, but Oileus' son forthwith shot to the front, and close
 behind him came noble Odysseus, as close as is a weaving-rod to a
 fair-girdled woman's breast when she pulleth it deftly with her hands,
-drawing the spool along the warp, and holdeth the rod nigh her breast--
+drawing the spool along the warp, and holdeth the rod nigh her breast 
 so close ran Odysseus behind Aias and trod in his footsteps or ever the
 dust had settled there, and on his head fell the breath of noble
 Odysseus as he ran ever lightly on, and all the Achaians applauded his
@@ -11544,7 +11544,7 @@ slain at the swift ships! Woe is me all unblest, since I begat sons the
 best men in wide Troy-land, but none of them is left for me to claim,
 neither godlike Mestor, nor Troilos with his chariot of war, nor Hector
 who was a god among men, neither seemed he as the son of a mortal man
-but of a god:--all these hath Ares slain, and here are my shames all
+but of a god: all these hath Ares slain, and here are my shames all
 left to me, false-tongued, light-heeled, the heroes of dance, plunderers
 of your own people's sheep and kids. Will ye not make me ready a wain
 with all speed, and lay all these thereon, that we get us forward on our
@@ -11705,7 +11705,7 @@ corpse, for they held him dear at heart."
 
 Thus spake he, and the old man rejoiced, and answered him, saying: "My
 son, it is verily a good thing to give due offerings withal to the
-Immortals, for never did my child--if that child indeed I had--forget
+Immortals, for never did my child if that child indeed I had forget
 in our halls the gods who inhabit Olympus. Therefore have they
 remembered this for him, albeit his portion is death. But come now take
 from me this goodly goblet, and guard me myself and guide me, under
@@ -11731,7 +11731,7 @@ their king and hewed therefor timber of the pine, and thatched it with
 downy thatching-rush that they mowed in the meadows, and around it made
 for him their lord a great court with close-set palisades; and the door
 was barred by a single bolt of pine that three Achaians wont to drive
-home, and three drew back that mighty bar--three of the rest, but
+home, and three drew back that mighty bar three of the rest, but
 Achilles by himself would drive it home. Then opened the Helper Hermes
 the door for the old man, and brought in the splendid gifts for Peleus'
 fleet-footed son, and descended from the chariot to the earth and spake
@@ -11756,7 +11756,7 @@ Achilles, and kissed his hands, terrible, man-slaying, that slew many of
 Priam's sons. And as when a grievous curse cometh upon a man who in his
 own country hath slain another and escapeth to a land of strangers, to
 the house of some rich man, and wonder possesseth them that look on
-him--so Achilles wondered when he saw godlike Priam, and the rest
+him so Achilles wondered when he saw godlike Priam, and the rest
 wondered likewise, and looked upon one another. Then Priam spake and
 entreated him, saying: "Bethink thee, O Achilles like to gods, of thy
 father that is of like years with me, on the grievous pathway of old
@@ -11808,7 +11808,7 @@ Neither may I tend him as he groweth old, since very far from my country
 I am dwelling in Troy-land, to vex thee and thy children. And of thee,
 old sire, we have heard how of old time thou wert happy, even how of all
 that Lesbos, seat of Makar, boundeth to the north thereof and Phrygia
-farther up and the vast Hellespont--of all these folk, men say, thou
+farther up and the vast Hellespont of all these folk, men say, thou
 wert the richest in wealth and in sons, but after that the Powers of
 Heaven brought this bane on thee, ever are battles and man-slayings
 around thy city. Keep courage, and lament not unabatingly in thy heart.
@@ -12009,12 +12009,12 @@ silver bow, hath descended and slain him with his gentle darts."
 Thus spake she wailing, and stirred unending moan. Then thirdly Helen
 led their sore lament: "Hector, of all my brethren of Troy far dearest
 to my heart! Truly my lord is godlike Alexandros who brought me to
-Troy-land--would I had died ere then. For this is now the twentieth year
+Troy-land would I had died ere then. For this is now the twentieth year
 since I went thence and am gone from my own native land, but never yet
 heard I evil or despiteful word from thee; nay, if any other haply
 upbraided me in the palace-halls, whether brother or sister of thine or
-brother's fair-robed wife, or thy mother--but thy father is ever kind to
-me as he were my own--then wouldst thou soothe such with words and
+brother's fair-robed wife, or thy mother but thy father is ever kind to
+me as he were my own then wouldst thou soothe such with words and
 refrain them, by the gentleness of thy spirit and by thy gentle words.
 Therefore bewail I thee with pain at heart, and my hapless self with
 thee, for no more is any left in wide Troy-land to be my friend and kind

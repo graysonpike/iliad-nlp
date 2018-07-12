@@ -1366,7 +1366,7 @@ Their cries rang out. The battalions gathered quickly.
 The warlords dear to the gods and flanking Agamemnon 
 strode on ahead, marshaling men-at-arms in files, 
 and down their ranks the fiery-eyed Athena bore 
-her awesome shield of storm, ageless, deathless--
+her awesome shield of storm, ageless, deathless 
 a hundred golden tassels, all of them braided tight 
 and each worth a hundred oxen, float along the front. 
 Her shield of lightning dazzling, swirling around her, 
@@ -3295,7 +3295,7 @@ And Diomedes lord of the war cry prayed aloud,
 "Hear me, daughter of Zeus whose shield is thunder, 
 tireless one, Athena! If you ever stood by father 
 with all your love amidst the blaze of battle, 
-stand by me--do me a favor now, Athena. 
+stand by me do me a favor now, Athena. 
 Bring that man into range and let me spear him! 
 He's wounded me off guard and now he triumphs-
 he boasts 1 won't look long on the light of day."
@@ -5646,7 +5646,7 @@ the city walls of Troy and the warships of Achaea.
 throughout the shelters, then they armed at once. 
 And on their side the Trojans put on harness too, 
 mustering throughout the city, a smaller force 
-but nerved to engage in combat even so--
+but nerved to engage in combat even so 
 necessity pressed them to fight for sons and wives.
 All the gates flung wide and the Trojan mass surged out, 
 horses, chariots, men on foot—a tremendous roar went up.
@@ -5761,7 +5761,7 @@ let the great earth gape and take me down that day!"
  
       But the noble horseman Nestor shouted back,
 "Nonsense, steady Tydeus' son—such loose talkl 
-Let Hector call you a coward, scorn your courage--
+Let Hector call you a coward, scorn your courage 
 the Trojan and Dardan troops will never believe him,
 nor will the wives of the lusty Trojan shieldsmen, never—
 you flung their lords in the dust, laid them low in their prime!"
@@ -5856,13 +5856,13 @@ Agamemnon's cry went piercing through the army:
 "Shame! Disgrace! You Argives, you degraded—
 splendid in battle dress, pure sham! 
 Where have the fighting taunts all gone? That time
-you vaunted you were the finest force on earth--
+you vaunted you were the finest force on earth 
 all that empty bluster you let fly at Lemnos, 
 gorging yourselves on longhorn cattle meat
 and drunk to the full on brimming bowls of wine, 
 bragging how each man could stand up to a hundred, 
 no, two hundred Trojan fighters in pitched battle.
-Now our whole army is no match for one, for Hector--
+Now our whole army is no match for one, for Hector 
 he'll gut our ships with blazing fire at any moment! 
 Father Zeus, when did you ever strike a mighty king 
 with such mad blindness—then tear away his glory?
@@ -5889,7 +5889,7 @@ flung themselves on the Trojans with a vengeance.
 massed in formation as they were, not a single man
 could claim he outstripped Diomedes, Tydeus' son 
 lashing his high-strung team across the trench 
-to reach the front and battle hand-to-hand--
+to reach the front and battle hand-to-hand 
 the first by far to kill a Trojan captain, 
 Agelaus the son of Phradmon. He'd just turned 
 his chariot round in flight and once he'd swerved
@@ -6130,7 +6130,7 @@ and mocked them harshly: "Why so crushed, Athena, Hera?
 Not overly tired, I trust, from all your efforts 
 there in glorious battle, slaughtering Trojans, 
 the men you break with all your deathless rage. 
-But I with my courage, my hands, never conquered--
+But I with my courage, my hands, never conquered 
 for all their force not all the gods on Olympus heights 
 could ever turn me back. Ah but the two of you—
 long ago the trembling shook your glistening limbs 
@@ -6151,7 +6151,7 @@ far too well . . . who can stand against you?
 Even so, we pity these Argive spearmen 
 living out their grim fates, dying in blood. 
 Yes, we'll keep clear of the war as you command.
-We'll simply offer the Argives tactics that may save them--
+We'll simply offer the Argives tactics that may save them 
 so they won't all fall beneath your blazing wrath."
  
       And Zeus who marshals the thunderheads replied, 
@@ -6241,7 +6241,7 @@ waken slashing war against their hollow hulls.
 I'll soon see if the mighty Diomedes rams me 
 back from the ships and back against our walls 
 or I kill him with bronze and strip his bloody armor! 
-Tomorrow Tydeus' son will learn his own strength--
+Tomorrow Tydeus' son will learn his own strength 
 if he has the spine to stand the onrush of my spear. 
 In the front ranks he'll sprawl, I think, torn open, 
 a rout of his comrades down around their captain 
@@ -6492,7 +6492,7 @@ the treasure trove you offer Prince Achilles.
 Come—we'll send a detail of picked men. 
 They'll go to Achilles' tent with all good speed. 
 Quick, whomever my eye will light on in review, 
-the mission's theirs. And old Phoenix first--
+the mission's theirs. And old Phoenix first 
 Zeus loves the man, so let him lead the way. 
 Then giant Ajax and tactful royal Odysseus. 
 Heralds? Odius and Eurybates, you escort them. 
@@ -6579,12 +6579,12 @@ unless, of course, you put your fighting power in harness.
 They have pitched camp right at our ships and rampart, 
 those brazen Trojans, they and their far-famed allies, 
 thousands of fires blaze throughout their armies ... 
-Nothing can stop them now-that's their boast--
+Nothing can stop them now-that's their boast 
 they'll hurl themselves against our blackened hulls. 
 And the son of Cronus sends them signs on the right, 
 Zeus's firebolts flashing. And headlong Hector, 
 delirious with his strength, rages uncontrollably, 
-trusting to Zeus—no fear of man or god, nothing--
+trusting to Zeus—no fear of man or god, nothing 
 a powerful rabid frenzy has him in its grip! 
 Hector prays for the sacred Dawn to break at once, 
 he threatens to lop the high horns of our stems 
@@ -6664,7 +6664,7 @@ live out your laws in sleek and shining peace.
 he would extend to you if you will end your anger.
 But if you hate the son of Atreus all the more, 
 him and his troves of gifts, at least take pity
-on all our united forces mauled in battle here--
+on all our united forces mauled in battle here 
 they will honor you, honor you like a god. 
 Think of the glory you will gather in their eyes!
 Now you can kill Hector—seized with murderous frenzy, 
@@ -6726,7 +6726,7 @@ robbed me, lied to me—don't let him try me now.
 I know him too well—he'll never win me over!
                                                             No, Odysseus, 
 let him rack his brains with you and the other captains
-how to fight the raging fire off the ships. Look--
+how to fight the raging fire off the ships. Look 
 what a mighty piece of work he's done without me! 
 Why, he's erected a rampart, driven a trench around it, 
 broad, enormous, and planted stakes to guard it. No use! 
@@ -6748,7 +6748,7 @@ my crews manning the oarlocks, rowing out with a will,
 and if the famed god of the earthquake grants us safe passage, 
 the third day out we raise the dark rich soil of Phthia. 
 There lies my wealth, hoards of it, all I left behind 
-when I sailed to Troy on this, this insane voyage--
+when I sailed to Troy on this, this insane voyage 
 and still more hoards from here: gold, ruddy bronze, 
 women sashed and lovely, and gleaming gray iron, 
 and I will haul it home, all I won as plunder. 
@@ -6992,7 +6992,7 @@ it was deadly going for the Curetes. No hope
 of holding their ground outside their own city walls, 
 despite superior numbers. But then, when the wrath 
 came sweeping over the man, the same anger that swells 
-the chests of others, for all their care and self-control--
+the chests of others, for all their care and self-control 
 then, heart enraged at his own dear mother Althaea, 
 Meleager kept to his bed beside his wedded wife, 
 Cleopatra . . . that great beauty. Remember her? 
@@ -7205,7 +7205,7 @@ Book X
  
 So by the ships the other lords of Achaea's armies 
 slept all night long, overcome by gentle sleep . . . 
-But not the great field marshal Agamemnon--
+But not the great field marshal Agamemnon 
 the sweet embrace of sleep could not hold him: 
 his mind kept churning, seething. Like Zeus's bolts 
 when the lord of bright-haired Hera flashes lightning, 
@@ -7314,7 +7314,7 @@ don't you recognize Agamemnon? The one man,
 past all others, Zeus has plunged in troubles, 
 year in, year out, for as long as the life breath
 fills my lungs and the spring in my knees will lift me.. 
-I roam this way since sleep won't close my eyes--
+I roam this way since sleep won't close my eyes 
 war's my worry, the agonies of our Achaeans. 
 How I fear for our comrades, fear the worst! 
 My mind is torn, I'm harried back and forth, 
@@ -7411,7 +7411,7 @@ with a quick start and burst of winging words:
 "A hard man you are, old soldier—hard.
 You never give up the good fight, do you?
 Where are the younger troopers now we need them? 
-Why don't they go wake each king in turn--
+Why don't they go wake each king in turn 
 padding softly up and down through camp? 
 You, old man, you'd overpower us all!"
  
@@ -7663,7 +7663,7 @@ nonstop and the prey goes screaming on ahead—
 so Odysseus raider of cities and Diomedes 
 cut him off from his own lines, coursing him, 
 closing nonstop with the Trojan about to break in 
-on the line of sentries, racing fast for the ships--
+on the line of sentries, racing fast for the ships 
 when Athena poured fresh strength in Tydeus' son 
 so no Achaean could beat him out for the glory 
 of hitting Dolon first, Diomedes come in second.
@@ -7672,7 +7672,7 @@ Tydides shouted, "Stop or I'll run you through!
 You'll never escape my spear—headlong death—
 I swear I'll send it hurling from my fist!"
  
-      He flung his shaft, missing the man on purpose--
+      He flung his shaft, missing the man on purpose 
 over his right shoulder the sharp spearpoint winged 
 and stabbed the earth. Dead in his tracks he stopped, 
 terrified, stammering, teeth chattering in his mouth, 
@@ -7680,7 +7680,7 @@ bled white with fear as the two men overtook him
 and panting hard, yanked and pinned his arms. 
 He burst into tears, pleading, "Take me alive! 
 I'll ransom myself! Treasures cram our house, 
-bronze and gold and plenty of well-wrought iron--
+bronze and gold and plenty of well-wrought iron 
 father would give you anything, gladly, priceless ransom—
 if only he learns I'm still alive in Argive ships!"
  
@@ -8406,7 +8406,7 @@ from his hiding-place and shouted out in glory,
 "Now you're hit—no wasted shot, my winging arrow! 
 But would to god I'd hit you deep in the guts 
 and ripped your life away! Then my Trojans
-could catch their breath again, reprieved from death--
+could catch their breath again, reprieved from death 
 they cringed at you like bleating goats before some lion."
  
       But never flinching, staunch Diomedes countered,
@@ -8417,7 +8417,7 @@ bow and spattering shafts will never help you then.
 You scratch my foot and you're vaunting all the same—
 but who cares? A woman or idiot boy could wound me so. 
 The shaft of a good-for-nothing coward's got no point 
-but mine's got heft and edge. Let it graze a man--
+but mine's got heft and edge. Let it graze a man 
 my weapon works in a flash and drops him dead. 
 And his good wife will tear her cheeks in grief, 
 his sons are orphans and he, soaking the soil 
@@ -8946,7 +8946,7 @@ You're fresh, unbroken. They're bone-weary from battle—
 you could roll those broken Trojans back to Troy, 
 clear of our ships and shelters!"
                                                   So old Nestor urged
-and the fighting spirit leapt inside Patroclus--
+and the fighting spirit leapt inside Patroclus 
 he dashed back by the ships toward Achilles. 
 But sprinting close to King Odysseus' fleet
 where the Argives met and handed down their laws, 
@@ -9069,7 +9069,7 @@ and where he lunges out the ranks of men give way.
 So Hector lunged into battle, rallying cohorts now, 
 spurring them on to cross the gaping trench—
 but his own rearing stallions lacked the nerve.
-They balked, whinnying shrill at the edge, the brink--
+They balked, whinnying shrill at the edge, the brink 
 a dead stop-frightened off by the trench so broad 
 the team could never leap it, not at a single bound, 
 nor could they plunge on through with any ease. 
@@ -9337,7 +9337,7 @@ we cannot all be equal in battle, ever,
 but now the battle lies before us all—
 come, see for yourselves, look straight' down. 
 Now let no fighter be turned back to the ships, 
-not with his captain's orders ringing in his ears--
+not with his captain's orders ringing in his ears 
 keep pressing forward, shouting each other on! 
 If only Olympian Zeus the lord of lightning 
 grants us strength to repel this Trojan charge 
@@ -9429,7 +9429,7 @@ But if fighting's flaring up in their own sector,
 at least let the rugged giant Ajax come alone 
 with Teucer the master archer at his side."
  
-      A brisk command, and the runner snapped to it--
+      A brisk command, and the runner snapped to it 
 he dashed along the wall of the Argive men-at-arms 
 till he reached the two Aeantes, stopped and shouted, 
 "Ajax—Ajax! Chiefs of the Argives armed in bronze, 

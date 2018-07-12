@@ -14,7 +14,7 @@ Confronted stood by Peleus' godlike son.
 Say then, what God the fatal strife provok'd?
 Jove's and Latona's son; he, filled with wrath
 Against the King, with deadly pestilence
-The camp afflicted,--and the people died,--
+The camp afflicted, and the people died, 
 For Chryses' sake, his priest, whom Atreus' son
 With scorn dismiss'd, when to the Grecian ships
 He came, his captive daughter to redeem,
@@ -54,7 +54,7 @@ Whose sov'reign sway o'er Tenedos extends;
 O Smintheus, hear! if e'er my offered gifts
 Found favour in thy sight; if e'er to thee
 I burn'd the fat of bulls and choicest goats,
-Grant me this boon--upon the Grecian host
+Grant me this boon upon the Grecian host
 Let thine unerring darts avenge my tears."
 
 Thus as he pray'd, his pray'r Apollo heard:
@@ -243,7 +243,7 @@ To rival me, and brave me to my face."
 
 Thus while he spake, Achilles chaf'd with rage;
 And in his manly breast his heart was torn
-With thoughts conflicting--whether from his side
+With thoughts conflicting whether from his side
 To draw his mighty sword, and thrusting by
 Th' assembled throng, to kill th' insulting King;
 Or school his soul, and keep his anger down.
@@ -276,7 +276,7 @@ Only be sway'd by me, and curb thy wrath."
 
 Whom answer'd thus Achilles, swift of foot:
 "Goddess, I needs must yield to your commands,
-Indignant though I be--for so 'tis best;
+Indignant though I be for so 'tis best;
 Who hears the Gods, of them his pray'rs are heard."
 
 He said: and on the silver hilt he stay'd
@@ -290,8 +290,8 @@ Atrides thus with bitter words address'd:
 "Thou sot, with eye of dog, and heart of deer!
 Who never dar'st to lead in armed fight
 Th' assembled host, nor with a chosen few
-To man the secret ambush--for thou fear'st
-To look on death--no doubt 'tis easier far,
+To man the secret ambush for thou fear'st
+To look on death no doubt 'tis easier far,
 Girt with thy troops, to plunder of his right
 Whoe'er may venture to oppose thy will!
 A tyrant King, because thou rul'st o'er slaves!
@@ -712,7 +712,7 @@ To whom the Cloud-compeller thus replied:
 "Presumptuous, to thy busy thoughts thou giv'st
 Too free a range, and watchest all I do;
 Yet shalt thou not prevail, but rather thus
-Be alien'd from my heart--the worse for thee!
+Be alien'd from my heart the worse for thee!
 If this be so, it is my sov'reign will.
 But now, keep silence, and my words obey,
 Lest all th' Immortals fail, if I be wroth,
@@ -881,7 +881,7 @@ And, prudent, thus the chosen few address'd:
 I saw a heav'nly Vision in my sleep:
 Most like it seemed in stature, form, and face
 To rev'rend Nestor; at my head it stood,
-And with these words address'd me--'Sleep'st thou, son
+And with these words address'd me 'Sleep'st thou, son
 Of Atreus, valiant warrior, horseman bold?
 To sleep all night but ill becomes a chief,
 Charg'd with the public weal, and cares of state.
@@ -1202,8 +1202,8 @@ Thus he foretold, and now the time is come.
 Here then, ye well-greav'd Greeks, let all remain,
 Till Priam's wealthy city be our own."
 
-He said, and loudly cheer'd the Greeks--and loud
-From all the hollow ships came back the cheers--
+He said, and loudly cheer'd the Greeks and loud
+From all the hollow ships came back the cheers 
 In admiration of Ulysses' speech.
 Gerenian Nestor next took up the word:
 "Like children, Grecian warriors, ye debate;
@@ -1219,8 +1219,8 @@ Atrides, thou, as is thy wont, maintain
 Unchang'd thy counsel; for the stubborn fight
 Array the Greeks; and let perdition seize
 Those few, those two or three among the host,
-Who hold their separate counsel--(not on them
-Depends the issue!)--rather than return
+Who hold their separate counsel (not on them
+Depends the issue!) rather than return
 To Argos, ere we prove if Jove indeed
 Will falsify his promis'd word, or no.
 For well I ween, that on the day when first
@@ -2437,7 +2437,7 @@ Here art thou found, to weave again thy wiles!
 Go then thyself! thy godship abdicate!
 Renounce Olympus! lavish here on him
 Thy pity and thy care! he may perchance
-Make thee his wife--at least his paramour!
+Make thee his wife at least his paramour!
 But thither go not I! foul shame it were
 Again to share his bed; the dames of Troy
 Will for a byword hold me; and e'en now
@@ -3478,7 +3478,7 @@ And in his well-built house, when here I came,
 Lycaon, aged warrior, urg'd me oft
 With horses and with chariots high upborne,
 To lead the Trojans in the stubborn fight;
-I hearken'd not--'twere better if I had--
+I hearken'd not 'twere better if I had 
 Yet fear'd I lest my horses, wont to feed
 In plenty unstinted, by the soldiers' wants
 Might of their custom'd forage be depriv'd;
@@ -4661,7 +4661,7 @@ The fate of children, brothers, husbands, friends;
 He to the Gods exhorted all to pray,
 For deep the sorrows that o'er many hung.
 But when to Priam's splendid house he came,
-With polish'd corridors adorn'd--within
+With polish'd corridors adorn'd within
 Were fifty chambers, all of polish'd stone,
 Plac'd each by other; there the fifty sons
 Of Priam with their wedded wives repos'd;
@@ -4952,7 +4952,7 @@ Thus saying, in his mother's arms he plac'd
 His child; she to her fragrant bosom clasp'd,
 Smiling through tears; with eyes of pitying love
 Hector beheld, and press'd her hand, and thus
-Address'd her--"Dearest, wring not thus my heart!
+Address'd her "Dearest, wring not thus my heart!
 For till my day of destiny is come,
 No man may take my life; and when it comes,
 Nor brave nor coward can escape that day.
@@ -5298,7 +5298,7 @@ The Greeks, rejoicing, on their champion gaz'd,
 The Trojans' limbs beneath them shook with fear;
 Ev'n Hector's heart beat quicker in his breast;
 Yet quail he must not now, nor back retreat
-Amid his comrades--he, the challenger!
+Amid his comrades he, the challenger!
 Ajax approach'd; before him, as a tow'r
 His mighty shield he bore, sev'n-fold, brass-bound,
 The work of Tychius, best artificer
@@ -5518,7 +5518,7 @@ The speech of valiant Diomed confirm'd.
 
 Then to Idaeus Agamemnon thus:
 "Idaeus, thou hast heard what answer give
-The chiefs of Greece--their answer I approve.
+The chiefs of Greece their answer I approve.
 But for the truce, for burial of the dead,
 I nought demur; no shame it is to grace
 With fun'ral rites the corpse of slaughter'd foes.
@@ -6486,7 +6486,7 @@ Sounder opinion none can hold than this,
 Which I maintain, and ever have maintain'd,
 Ev'n from the day when thou, great King, didst bear
 The fair Briseis from Achilles' tent
-Despite his anger--not by my advice:
+Despite his anger not by my advice:
 I fain would have dissuaded thee, but thou,
 Following the dictates of thy wrathful pride,
 Didst to our bravest wrong, dishon'ring him
@@ -6867,7 +6867,7 @@ Ye see not yet the end; all-seeing Jove
 O'er her extends his hand; on him relying
 Her people all with confidence are fill'd.'
 Go then; my answer to the chiefs of Greece
-Speak boldly--such the privilege of age--
+Speak boldly such the privilege of age 
 Bid that some better counsel they devise
 To save their ships and men; their present scheme,
 My anger unappeas'd, avails them nought.
@@ -7704,7 +7704,7 @@ Com'st thou perchance for plunder of the dead?
 Or seek'st upon our ships to play the spy,
 By Hector sent? or of thine own accord?"
 
-Then Dolon thus--his knees with terror shook--
+Then Dolon thus his knees with terror shook 
 "With much persuasion, of my better mind
 Hector beguil'd me, off'ring as my prize
 Achilles' horses and his brass-bound car;
@@ -12460,7 +12460,7 @@ Was brought to light, and saw the face of day,
 Her to his home, with ample dow'r enrich'd,
 Echecles, son of Actor, bore away;
 While him the aged Phylas kept, and nurs'd
-With tender care, and cherish'd--as his own.
+With tender care, and cherish'd as his own.
 The brave Peisander, son of Maemalus,
 The third commanded; of the Myrmidons,
 Next to Pelides' friend, the noblest spear.
@@ -13282,7 +13282,7 @@ The noble prize the Gods to Peleus gave.
 
 ARGUMENT.
 
-THE SEVENTH BATTLE, FOR THE BODY OF PATROCLUS.--THE ACTS OF MENELAUS.
+THE SEVENTH BATTLE, FOR THE BODY OF PATROCLUS. THE ACTS OF MENELAUS.
 
 
 Menelaus, upon the death of Patroclus, defends his body from the enemy;
@@ -14125,7 +14125,7 @@ The two Ajaces and Meriones:
 And thou, Meriones, remember now
 Our lost Patroclus' gentle courtesy,
 How kind and genial was his soul to all,
-While yet he liv'd--now sunk, alas! in death."
+While yet he liv'd now sunk, alas! in death."
 
 Thus saying, Menelaus took his way,
 Casting his glance around on ev'ry side,
@@ -17648,7 +17648,7 @@ Have had their fill, the wriggling worms shall feed;
 On thee, all naked; while within thy house
 Lies store of raiment, rich and rare, the work
 Of women's hands; these will I burn with fire;
-Not for thy need--thou ne'er shalt wear them more,--
+Not for thy need thou ne'er shalt wear them more, 
 But for thine honour in the sight of Troy."
 
 Weeping she spoke; the women join'd her wail.
@@ -18280,7 +18280,7 @@ Eumelus' mares; 'tis he that holds the reins."
 To whom in anger thus the Cretan chief:
 "Ajax, at wrangling good, in judgment naught,
 And for aught else, among the chiefs of Greece
-Of small account--so stubborn is thy soul;
+Of small account so stubborn is thy soul;
 Wilt thou a tripod or a caldron stake,
 And Agamemnon, Atreus' son, appoint
 The umpire to decide whose steeds are first?
@@ -18330,7 +18330,7 @@ Small space between, he scours the wide-spread plain:
 So far was Menelaus in the rear
 Of Nestor's son; at first, a discus' cast
 Between them lay; but rapidly his ground
-He gain'd--so well the speed and courage serv'd
+He gain'd so well the speed and courage serv'd
 Of AEthe, Agamemnon's beauteous mare;
 And, but a little farther were the course,
 Had pass'd him by, nor left the race in doubt.
@@ -19606,7 +19606,7 @@ That love to dance by Achelous' stream,
 Broods o'er the wrongs inflicted by the Gods.
 So we too, godlike sire, the meal may share;
 And later, thou thy noble son mayst mourn,
-To Troy restor'd--well worthy he thy tears."
+To Troy restor'd well worthy he thy tears."
 
 This said, he slaughter'd straight a white-fleec'd sheep;
 His comrades then the carcase flay'd and dress'd:
@@ -19752,7 +19752,7 @@ And with them I shall go; thou too, my child,
 Must follow me, to servile labour doom'd,
 The suff'ring victim of a tyrant Lord;
 Unless perchance some angry Greek may seize
-And dash thee from the tow'r--a woful death!
+And dash thee from the tow'r a woful death!
 Whose brother, or whose father, or whose son
 By Hector hath been slain; for many a Greek
 By Hector's hand hath bit the bloody dust;
@@ -19765,7 +19765,7 @@ The hand extended from thy dying bed,
 Nor words of wisdom catch, which night and day,
 With tears, I might have treasur'd in my heart."
 
-Weeping she spoke--the women join'd the wail.
+Weeping she spoke the women join'd the wail.
 Then Hecuba took up the loud lament:
 "Hector, of all my children dearest thou!
 Dear to th' Immortals too in life wast thou,
@@ -19787,7 +19787,7 @@ Weeping, she spoke; and rous'd the gen'ral grief.
 Then Helen, third, the mournful strain renew'd:
 "Hector, of all my brethren dearest thou!
 True, godlike Paris claims me as his wife,
-Who bore me hither--would I then had died!
+Who bore me hither would I then had died!
 But twenty years have pass'd since here I came,
 And left my native land; yet ne'er from thee
 I heard one scornful, one degrading word;
